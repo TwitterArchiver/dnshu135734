@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2032769639261102188",
+    "created_at": "2026-03-14T10:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032769639261102188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032769639261102188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在想\n高压线自杀成功率高吗，如果可以瞬间麻痹心脏烧坏大脑，应该是无痛的吧\n起因是看到了触手可及的高压线，只需要站在护栏往前伸手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2032769639261102188",
+        "created_at": "2026-03-14T10:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032769639261102188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032769639261102188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想\n高压线自杀成功率高吗，如果可以瞬间麻痹心脏烧坏大脑，应该是无痛的吧\n起因是看到了触手可及的高压线，只需要站在护栏往前伸手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 3485,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1375
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

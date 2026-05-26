@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2014484484033479031",
+    "created_at": "2026-01-23T10:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T11:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014639308335153390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946843278361710592",
+          "start": 0,
+          "username": "youshiko112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014639308335153390",
+    "in_reply_to_user_id": "1946843278361710592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014484484033479031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youshiko112 为什么人总是会期待起来呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2014484484033479031",
+        "created_at": "2026-01-23T10:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014639308335153390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946843278361710592",
+              "start": 0,
+              "username": "youshiko112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014639308335153390",
+        "in_reply_to_user_id": "1946843278361710592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014484484033479031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youshiko112 为什么人总是会期待起来呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946843278361710592",
+        "conversation_id": "2014484484033479031",
+        "created_at": "2026-01-22T23:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T00:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014484484033479031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014484484033479031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有现实生活的人幻想在网络空间找到爱情/友情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 839
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T08:03:30.000Z",
+        "description": "终将登上明月",
+        "id": "1946843278361710592",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "Linko",
+        "pinned_tweet_id": "2011143939135586504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992292933543100416/cXNxYJ4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 226,
+          "like_count": 2197,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1288
+        },
+        "username": "youshiko112",
+        "verified": false
+      }
+    ]
+  }
+}

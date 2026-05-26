@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1975109065455129021",
+    "created_at": "2025-10-06T08:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975109065455129021"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975109065455129021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真可恶为什么这两周各大医院号几乎全部挂满了。武汉精神科是这么热门的地方吗，武汉人什么时候全都变成疯子了。没有别的药吃，拉莫三嗪为什么不怎么管用呢\n我的直觉一向很准呢，当我想到会有不好的事情时，好像那件事情就越来越容易发生，无论是哪方面的事情，或许是我无意间一点一点的在推动吧………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1975109065455129021",
+        "created_at": "2025-10-06T08:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975109065455129021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975109065455129021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真可恶为什么这两周各大医院号几乎全部挂满了。武汉精神科是这么热门的地方吗，武汉人什么时候全都变成疯子了。没有别的药吃，拉莫三嗪为什么不怎么管用呢\n我的直觉一向很准呢，当我想到会有不好的事情时，好像那件事情就越来越容易发生，无论是哪方面的事情，或许是我无意间一点一点的在推动吧………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

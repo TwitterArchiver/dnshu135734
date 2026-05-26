@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2027280596666597815",
+    "created_at": "2026-02-27T23:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T00:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027531749056749805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982450015927971840",
+          "start": 0,
+          "username": "xichuan412888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027531749056749805",
+    "in_reply_to_user_id": "1982450015927971840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027280596666597815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichuan412888 摸摸……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2027280585946025984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJY87Fb0AAcpma.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2027280585937567744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJY87DawAA1SmU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2027280596666597815",
+        "created_at": "2026-02-27T23:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T00:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027531749056749805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982450015927971840",
+              "start": 0,
+              "username": "xichuan412888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027531749056749805",
+        "in_reply_to_user_id": "1982450015927971840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027280596666597815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichuan412888 摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027280585946025984",
+            "3_2027280585937567744"
+          ]
+        },
+        "author_id": "1982450015927971840",
+        "conversation_id": "2027280596666597815",
+        "created_at": "2026-02-27T07:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027280596666597815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pyrnRccqah",
+              "end": 46,
+              "expanded_url": "https://x.com/xichuan412888/status/2027280596666597815/photo/1",
+              "media_key": "3_2027280585946025984",
+              "start": 23,
+              "url": "https://t.co/pyrnRccqah"
+            },
+            {
+              "display_url": "pic.x.com/pyrnRccqah",
+              "end": 46,
+              "expanded_url": "https://x.com/xichuan412888/status/2027280596666597815/photo/1",
+              "media_key": "3_2027280585937567744",
+              "start": 23,
+              "url": "https://t.co/pyrnRccqah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027280596666597815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见大家，我要去精卫住院了😭我会记得你们的😭 https://t.co/pyrnRccqah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 2,
+          "like_count": 2480,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1136
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:12:03.000Z",
+        "description": "苦学生:(｜负面情绪警告⚠️｜不谈论政治｜随时可能会消失｜是小废物(哭)｜网络上的大家都好温柔(///▽///)你们一定要幸福地活下去哦(*^o^*)",
+        "id": "1982450015927971840",
+        "name": "栖川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093341980041216/KrJBngjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 347,
+          "like_count": 7183,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 216
+        },
+        "username": "xichuan412888",
+        "verified": false
+      }
+    ]
+  }
+}

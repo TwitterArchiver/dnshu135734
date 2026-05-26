@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2023405424150716513",
+    "created_at": "2026-02-16T14:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023405424150716513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/merak_rinchi/s…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/merak_rinchi/status/2023398769493180800",
+          "start": 81,
+          "url": "https://t.co/rsNHRT4NLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023405424150716513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023398769493180800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的呢，要背负着自责和错误活下去是很难很难的事情。\n明明做错了那么多，伤害了那么多人，我为什么还有理由活下去呢\n希望不再痛苦的日子早点到来\n要死掉时可以带上我… https://t.co/rsNHRT4NLE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2023405424150716513",
+        "created_at": "2026-02-16T14:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023405424150716513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/merak_rinchi/s…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/merak_rinchi/status/2023398769493180800",
+              "start": 81,
+              "url": "https://t.co/rsNHRT4NLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023405424150716513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023398769493180800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的呢，要背负着自责和错误活下去是很难很难的事情。\n明明做错了那么多，伤害了那么多人，我为什么还有理由活下去呢\n希望不再痛苦的日子早点到来\n要死掉时可以带上我… https://t.co/rsNHRT4NLE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2023398769493180800",
+        "created_at": "2026-02-16T14:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023398769493180800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023398769493180800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多事情推理到最后，还是我的问题，我的错。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2043,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 984
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "Karagawa Roku \\ 旧名凛柒 \\ INFJ-T/OH \\ 假扮天使ing \\ 曾经的数学天才 \\ 音游+RTS+F/TPS玩家 \\ 手伤严重 \\ ADHD存疑 \\ 信息秒回——「望む結末へと伸ばした両手」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnchiie_roku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnchiie_roku",
+                "start": 0,
+                "url": "https://t.co/xerBWOl3hM"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川陸༻",
+        "pinned_tweet_id": "2022340038605074450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019570567280750593/rSOmWrJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 434,
+          "like_count": 9904,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/xerBWOl3hM",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

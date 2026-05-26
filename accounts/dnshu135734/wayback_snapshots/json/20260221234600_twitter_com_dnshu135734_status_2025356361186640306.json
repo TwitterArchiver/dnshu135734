@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2024863628596564264",
+    "created_at": "2026-02-21T23:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T00:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025356361186640306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811057149805834241",
+          "start": 0,
+          "username": "Tarimarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025356361186640306",
+    "in_reply_to_user_id": "1811057149805834241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024863628596564264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tarimarl 世界更好上手一点？崛起需要习惯画风。我比较建议先玩世界如果觉得喜欢再玩崛起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2024863628596564264",
+        "created_at": "2026-02-21T23:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025356361186640306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811057149805834241",
+              "start": 0,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025356361186640306",
+        "in_reply_to_user_id": "1811057149805834241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024863628596564264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarimarl 世界更好上手一点？崛起需要习惯画风。我比较建议先玩世界如果觉得喜欢再玩崛起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811057149805834241",
+        "conversation_id": "2024863628596564264",
+        "created_at": "2026-02-20T15:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024863628596564264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024863628596564264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是想问，想玩怪猎 世界和崛起先玩哪部。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2161,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1058
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:17:40.000Z",
+        "description": "is me",
+        "id": "1811057149805834241",
+        "location": "✟​Heaven✟​",
+        "name": "Tarimar_Unofficial",
+        "pinned_tweet_id": "2015091493024010635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021642618275614720/VE8O4YEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 570,
+          "like_count": 11542,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 4173
+        },
+        "username": "Tarimarl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2049057263747584294",
+    "created_at": "2026-04-28T09:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049057263747584294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767040816986656768",
+          "start": 3,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049057263747584294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049046973068820873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeviuslX_Xl: 以前的我特别特别焦虑\n每天担心未来担心家里担心各种会突发的事情\n我会因为我的糖被我爸发现了焦虑不到睡不着觉\n会因为别人说我不好看哭上好几天\n直到有一天我想死了\n我他妈突然醒了\n卧槽我连死都敢我还有什么不敢做的还有什么好怕的，我他吗被生下来就注定…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2049057263747584294",
+        "created_at": "2026-04-28T09:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049057263747584294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767040816986656768",
+              "start": 3,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049057263747584294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049046973068820873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeviuslX_Xl: 以前的我特别特别焦虑\n每天担心未来担心家里担心各种会突发的事情\n我会因为我的糖被我爸发现了焦虑不到睡不着觉\n会因为别人说我不好看哭上好几天\n直到有一天我想死了\n我他妈突然醒了\n卧槽我连死都敢我还有什么不敢做的还有什么好怕的，我他吗被生下来就注定…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767040816986656768",
+        "conversation_id": "2049046973068820873",
+        "created_at": "2026-04-28T08:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049046973068820873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049046973068820873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 176,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以前的我特别特别焦虑\n每天担心未来担心家里担心各种会突发的事情\n我会因为我的糖被我爸发现了焦虑不到睡不着觉\n会因为别人说我不好看哭上好几天\n直到有一天我想死了\n我他妈突然醒了\n卧槽我连死都敢我还有什么不敢做的还有什么好怕的，我他吗被生下来就注定要死，那在我死前凭什么不去做真正的我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n最喜欢的人@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 5509,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1878
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "一只笨笨的邪恶小魅魔｜可以叫我小梅，或者梅子干也行｜很喜欢很喜欢的酸汤面姐姐大人@wang3289 ｜有点腹黑毒舌，但是很好相处，想认识好多好多朋友｜目前精神状态有点差，但是在努力克服啦｜最后……这里有提问箱可以问小梅任何问题哦～⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "wang3289"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meviuslx_xl",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meviuslx_xl",
+                "start": 0,
+                "url": "https://t.co/yK6TFzsZWk"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "魔王城",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈",
+        "pinned_tweet_id": "2009992139284066816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957098651299581952/LUPlmVG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12704,
+          "following_count": 1046,
+          "like_count": 18300,
+          "listed_count": 29,
+          "media_count": 1044,
+          "tweet_count": 8525
+        },
+        "url": "https://t.co/yK6TFzsZWk",
+        "username": "MeviuslX_Xl",
+        "verified": false
+      }
+    ]
+  }
+}

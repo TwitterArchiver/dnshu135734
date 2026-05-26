@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011730192759394304"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "2011730205224943925",
+    "created_at": "2026-01-15T09:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T10:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011730205224943925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/avIgSDo7lj",
+          "end": 68,
+          "expanded_url": "https://x.com/dnshu135734/status/2011730205224943925/photo/1",
+          "media_key": "3_2011730192759394304",
+          "start": 45,
+          "url": "https://t.co/avIgSDo7lj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011730205224943925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真是青春呢……\n同寝新来的病友借我的手机登qq向喜欢的女孩表白\n我还没有对别人表白过呢… https://t.co/avIgSDo7lj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2011730192759394304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sZ86NaEAAhyeL.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011730192759394304"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "2011730205224943925",
+        "created_at": "2026-01-15T09:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011730205224943925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/avIgSDo7lj",
+              "end": 68,
+              "expanded_url": "https://x.com/dnshu135734/status/2011730205224943925/photo/1",
+              "media_key": "3_2011730192759394304",
+              "start": 45,
+              "url": "https://t.co/avIgSDo7lj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011730205224943925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是青春呢……\n同寝新来的病友借我的手机登qq向喜欢的女孩表白\n我还没有对别人表白过呢… https://t.co/avIgSDo7lj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 1385,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 772
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2044977883177779558",
+    "created_at": "2026-04-17T07:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045045250369134605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045045250369134605",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044977883177779558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 呜呜，抱抱你………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2044977883177779558",
+        "created_at": "2026-04-17T07:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045045250369134605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045045250369134605",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044977883177779558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 呜呜，抱抱你………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755765450707709952",
+        "conversation_id": "2044977883177779558",
+        "created_at": "2026-04-17T03:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044977883177779558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044977883177779558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事情有了新进展\n我可能要先转到三病区（即成瘾病房的封闭病房）\n坚持半个月，情况好的话再转到29病区\n（即成瘾病房的开放病房）\n但是三病区每天只有两个小时的手机使用时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜下面是满满当当的简介\n最喜欢的人@Aureliax17QwQ ｜陆姐姐 @MeraK_Rinchi ｜不知道会不会同意我把她加到简介里的帆 @nanami_mua｜章鱼妈妈！@mihuanhuanhuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "MeraK_Rinchi"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nanami_mua"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "mihuanhuanhuan"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 5264,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1803
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "从停止分享开始结束关系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/44uZxdg5TMP",
+                "end": 23,
+                "expanded_url": "http://xhslink.com/m/44uZxdg5TMP",
+                "start": 0,
+                "url": "https://t.co/j5FW6UNdZ3"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2044255373826371591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504021785071616/3r_0Vu5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 2263,
+          "like_count": 52279,
+          "listed_count": 6,
+          "media_count": 1894,
+          "tweet_count": 11730
+        },
+        "url": "https://t.co/j5FW6UNdZ3",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

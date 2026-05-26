@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2023354245219848495",
+    "created_at": "2026-02-19T17:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024537178353914229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803711973215092736",
+          "start": 0,
+          "username": "LemeryL30062"
+        },
+        {
+          "end": 28,
+          "id": "1982450015927971840",
+          "start": 14,
+          "username": "xichuan412888"
+        },
+        {
+          "end": 44,
+          "id": "1795435473537478656",
+          "start": 29,
+          "username": "k2993998281667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024537178353914229",
+    "in_reply_to_user_id": "1803711973215092736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024533130154008648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemeryL30062 @xichuan412888 @k2993998281667 不清楚，但是戊巴比妥是精二而且卖也不便宜，在国内平台（微信qq这种）能买到的可能性很低\n并且就算是真的，以国内的风控力度，请做好在到货之前拘留15天/精神病院一月游的准备"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2024533127838801920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiWJ0DXoAAaFjW.jpg",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2023354245219848495",
+        "created_at": "2026-02-19T17:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024537178353914229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803711973215092736",
+              "start": 0,
+              "username": "LemeryL30062"
+            },
+            {
+              "end": 28,
+              "id": "1982450015927971840",
+              "start": 14,
+              "username": "xichuan412888"
+            },
+            {
+              "end": 44,
+              "id": "1795435473537478656",
+              "start": 29,
+              "username": "k2993998281667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024537178353914229",
+        "in_reply_to_user_id": "1803711973215092736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024533130154008648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemeryL30062 @xichuan412888 @k2993998281667 不清楚，但是戊巴比妥是精二而且卖也不便宜，在国内平台（微信qq这种）能买到的可能性很低\n并且就算是真的，以国内的风控力度，请做好在到货之前拘留15天/精神病院一月游的准备"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024533127838801920"
+          ]
+        },
+        "author_id": "1803711973215092736",
+        "conversation_id": "2023354245219848495",
+        "created_at": "2026-02-19T17:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024533130154008648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            },
+            {
+              "end": 27,
+              "id": "1982450015927971840",
+              "start": 13,
+              "username": "xichuan412888"
+            },
+            {
+              "end": 43,
+              "id": "1795435473537478656",
+              "start": 28,
+              "username": "k2993998281667"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQxcoTYu3H",
+              "end": 75,
+              "expanded_url": "https://x.com/LemeryL30062/status/2024533130154008648/photo/1",
+              "media_key": "3_2024533127838801920",
+              "start": 52,
+              "url": "https://t.co/TQxcoTYu3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024533130154008648",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023413550342091035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 @xichuan412888 @k2993998281667 这个是真的吗？ https://t.co/TQxcoTYu3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2034,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1003
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T08:50:29.000Z",
+        "description": "",
+        "id": "1803711973215092736",
+        "name": "lemery_lllllllllllll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803712197178380288/-ik0ZgWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 96,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "username": "LemeryL30062",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:12:03.000Z",
+        "description": "苦学生:(｜生理男｜有点想变成女性但也就一点｜负面情绪警告⚠️｜不谈论政治｜随时可能会消失｜网络上的大家都好温柔(///▽///)你们一定要幸福地活下去哦(*^o^*)",
+        "id": "1982450015927971840",
+        "name": "栖川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093341980041216/KrJBngjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 342,
+          "like_count": 6479,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 169
+        },
+        "username": "xichuan412888",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T12:42:38.000Z",
+        "description": "把推当日记发\n喜欢格斗和卡牌游戏 炉石/szb/ygo/sf6/ggst/ow",
+        "id": "1795435473537478656",
+        "name": "Testament Love❤️",
+        "pinned_tweet_id": "2012350220097798581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991747316735488000/l9lvbbEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 101,
+          "like_count": 1892,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 684
+        },
+        "username": "k2993998281667",
+        "verified": false
+      }
+    ]
+  }
+}

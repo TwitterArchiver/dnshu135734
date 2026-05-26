@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2025035146173579275",
+    "created_at": "2026-02-21T22:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T23:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025343772666855661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1996563547007176704",
+          "start": 0,
+          "username": "gu_niu666"
+        },
+        {
+          "end": 25,
+          "id": "1611246341728120835",
+          "start": 11,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025343772666855661",
+    "in_reply_to_user_id": "1996563547007176704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025340867415081327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_niu666 @Aureliax17QwQ 所以我觉得在跨圈喊退跨啊退外网啊是很无聊的事情，大部分人退了之后性别焦虑依然会有，抑郁和心理创伤也不会凭空消失\n当然你要是觉得青少年不该接触这些那肯定是无可辩驳的正论。但这样的话应该在墙内发，因为一个人都入跨圈了，本来或多或少都有点问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2025035146173579275",
+        "created_at": "2026-02-21T22:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T23:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025343772666855661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996563547007176704",
+              "start": 0,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 25,
+              "id": "1611246341728120835",
+              "start": 11,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025343772666855661",
+        "in_reply_to_user_id": "1996563547007176704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025340867415081327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu666 @Aureliax17QwQ 所以我觉得在跨圈喊退跨啊退外网啊是很无聊的事情，大部分人退了之后性别焦虑依然会有，抑郁和心理创伤也不会凭空消失\n当然你要是觉得青少年不该接触这些那肯定是无可辩驳的正论。但这样的话应该在墙内发，因为一个人都入跨圈了，本来或多或少都有点问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996563547007176704",
+        "conversation_id": "2025035146173579275",
+        "created_at": "2026-02-21T22:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T23:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025340867415081327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025340867415081327",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025035146173579275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 早就该退跨了 外网很多人本来输出的思想就不正常 青少年容易被带偏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1049
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n 人格在立希和头模零之间来回切换\n🚫禁止未工作者🈚稳定资金来源者购买任何   🍥🍬💉\n 反lgbt/跨人乐子/重开药桶饭\n 理想是世界没有跨\n 安卓跨人 安卓救人 安卓共情力\n 纯乐子人 如果你对我认真，你就输了 \n 如果你对我感到破防 那祝你以后学会笑一笑就好",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈🏳️‍⚧🍥心宿二和参宿四🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡💯互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018938146436894720/pmXDOh3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 209,
+          "like_count": 2573,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1765
+        },
+        "username": "gu_niu666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 71,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 48,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 117,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 94,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 172,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 258
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

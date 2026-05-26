@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2004425493492519359",
+    "created_at": "2025-12-27T10:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T11:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004861221540081812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808047925676986368",
+          "start": 0,
+          "username": "xxx_zzx71446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004861221540081812",
+    "in_reply_to_user_id": "1808047925676986368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004860943260680561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_zzx71446 要是每一个痛苦的人都能有赖以支撑的朋友就好了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2004425493492519359",
+        "created_at": "2025-12-27T10:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004861221540081812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808047925676986368",
+              "start": 0,
+              "username": "xxx_zzx71446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004861221540081812",
+        "in_reply_to_user_id": "1808047925676986368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004860943260680561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_zzx71446 要是每一个痛苦的人都能有赖以支撑的朋友就好了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808047925676986368",
+        "conversation_id": "2004425493492519359",
+        "created_at": "2025-12-27T10:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004860943260680561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004860943260680561",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004860487566328308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 我个人还好，起码现实中还有朋友，不是很依赖推特，那上面那些话是我看过别人太多痛苦所想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 544
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "",
+        "id": "1808047925676986368",
+        "location": "距离10.3km",
+        "name": "流光诺梦",
+        "pinned_tweet_id": "2001984391845908777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981046735225913344/HPTthMmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 402,
+          "like_count": 10021,
+          "listed_count": 4,
+          "media_count": 1446,
+          "tweet_count": 12398
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      }
+    ]
+  }
+}

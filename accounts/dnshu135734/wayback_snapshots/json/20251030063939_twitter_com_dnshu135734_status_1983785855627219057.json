@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1983785855627219057",
+    "created_at": "2025-10-30T06:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T07:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983785855627219057"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983785855627219057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道呢，感觉在感情上我一直都是会被别人掌控拿捏的类型。总是情不自禁的喜欢上对方\n要么被一脚踹开“你太没有距离感了”“你要学会适应呢”\n要么就是被对方友好一段时间然后看穿我的无聊废物本质后丢掉，或者互相伤害一段时间后“不想再见到你了”就算我如何低微的挽留也没有用，自始自终都是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1983785855627219057",
+        "created_at": "2025-10-30T06:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983785855627219057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983785855627219057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道呢，感觉在感情上我一直都是会被别人掌控拿捏的类型。总是情不自禁的喜欢上对方\n要么被一脚踹开“你太没有距离感了”“你要学会适应呢”\n要么就是被对方友好一段时间然后看穿我的无聊废物本质后丢掉，或者互相伤害一段时间后“不想再见到你了”就算我如何低微的挽留也没有用，自始自终都是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 147
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

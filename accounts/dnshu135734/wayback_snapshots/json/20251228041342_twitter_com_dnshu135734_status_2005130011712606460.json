@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005130004670320640"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "2005130011712606460",
+    "created_at": "2025-12-28T04:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T05:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005130011712606460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BmNl5oygWK",
+          "end": 73,
+          "expanded_url": "https://x.com/dnshu135734/status/2005130011712606460/photo/1",
+          "media_key": "3_2005130004670320640",
+          "start": 50,
+          "url": "https://t.co/BmNl5oygWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005130011712606460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mujica留给我的现印象：\n中年大叔喜欢睦子米\n群聊里无处不在的表情包\n为什么你们什么图都有…… https://t.co/BmNl5oygWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2005130004670320640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OnHZjaEAAh065.jpg",
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005130004670320640"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "2005130011712606460",
+        "created_at": "2025-12-28T04:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005130011712606460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmNl5oygWK",
+              "end": 73,
+              "expanded_url": "https://x.com/dnshu135734/status/2005130011712606460/photo/1",
+              "media_key": "3_2005130004670320640",
+              "start": 50,
+              "url": "https://t.co/BmNl5oygWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005130011712606460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mujica留给我的现印象：\n中年大叔喜欢睦子米\n群聊里无处不在的表情包\n为什么你们什么图都有…… https://t.co/BmNl5oygWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 11,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 569
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

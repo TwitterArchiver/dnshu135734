@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2009090285167628658",
+    "created_at": "2026-01-08T03:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T04:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009102273109217726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2006334180473671680",
+          "start": 0,
+          "username": "LunatiCatNight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009102273109217726",
+    "in_reply_to_user_id": "2006334180473671680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009090285167628658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LunatiCatNight 想起了之前因为电脑问题反复修理三个月。\n怀疑内存坏，换内存，不是。\n怀疑电源坏，换电源，不是。\n主板被烧坏了，换主板。\n怀疑显卡坏，换显卡，不是。\n然后花200送到修理店什么都没换反而又好了？？？？\n好玄学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2009090285167628658",
+        "created_at": "2026-01-08T03:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009102273109217726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2006334180473671680",
+              "start": 0,
+              "username": "LunatiCatNight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009102273109217726",
+        "in_reply_to_user_id": "2006334180473671680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009090285167628658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LunatiCatNight 想起了之前因为电脑问题反复修理三个月。\n怀疑内存坏，换内存，不是。\n怀疑电源坏，换电源，不是。\n主板被烧坏了，换主板。\n怀疑显卡坏，换显卡，不是。\n然后花200送到修理店什么都没换反而又好了？？？？\n好玄学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006334180473671680",
+        "conversation_id": "2009090285167628658",
+        "created_at": "2026-01-08T02:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009090285167628658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009090285167628658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我去结果我电脑不是电源出问题了\n他还给我换了个新的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 728
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T11:58:50.000Z",
+        "description": "MtF老资历🍥/19岁吸血鬼/精神状态不明/在重庆/业余爱好唱歌/@Jiangyineko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Jiangyineko"
+              }
+            ]
+          }
+        },
+        "id": "2006334180473671680",
+        "name": "夜樱LunatiCat",
+        "pinned_tweet_id": "2008505428330901987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007339859770511360/Q3oUA0cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 105,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 162
+        },
+        "username": "LunatiCatNight",
+        "verified": false
+      }
+    ]
+  }
+}

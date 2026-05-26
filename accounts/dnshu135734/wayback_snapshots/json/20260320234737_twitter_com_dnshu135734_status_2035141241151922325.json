@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2034640704501412340",
+    "created_at": "2026-03-20T23:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T00:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035141241151922325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1432504419979972608",
+          "start": 0,
+          "username": "Howa_Satou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035141241151922325",
+    "in_reply_to_user_id": "1432504419979972608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035139618366963829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Howa_Satou 1承诺对我来说和空话没有区别\n2除非产生新的变化，不然话题很难重复的延续，但我远离这种变化很久了\n一方面同2，另一方面，我不会掩饰对对方的喜欢所以基本上都说了好多遍了\n谢谢指导喵，不过现在好像没什么运用的机会了，我只知道现在对方很生气了（雷区）但我却纠正不了自己，态度还傲慢，有点担心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2034640704501412340",
+        "created_at": "2026-03-20T23:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T00:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035141241151922325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1432504419979972608",
+              "start": 0,
+              "username": "Howa_Satou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035141241151922325",
+        "in_reply_to_user_id": "1432504419979972608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035139618366963829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Howa_Satou 1承诺对我来说和空话没有区别\n2除非产生新的变化，不然话题很难重复的延续，但我远离这种变化很久了\n一方面同2，另一方面，我不会掩饰对对方的喜欢所以基本上都说了好多遍了\n谢谢指导喵，不过现在好像没什么运用的机会了，我只知道现在对方很生气了（雷区）但我却纠正不了自己，态度还傲慢，有点担心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432504419979972608",
+        "conversation_id": "2034640704501412340",
+        "created_at": "2026-03-20T23:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T00:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035139618366963829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035139618366963829",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034640704501412340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 有一个方法是从过去寻找答案:回顾聊天的历史，那些承诺是否有一个结果？或者是否能够衍生出新的承诺？过去你们在某个话题交谈甚欢，是否还有继续的可能？现在的你回顾过去的聊天是否有新的感想分享？不过聊天太久彼此也会累，所以尽量适度即可。希望这会略微帮助到你，祝您有美好的一天 😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 3752,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1478
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-31T00:44:26.000Z",
+        "description": "爱美食/不爱看书/祝您有美好的一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hikamimeruru1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hikamimeruru1",
+                "start": 0,
+                "url": "https://t.co/A4NDe2ZabK"
+              }
+            ]
+          }
+        },
+        "id": "1432504419979972608",
+        "location": "魔女岛 · 地下室储冰库",
+        "name": "冰上梅露露",
+        "pinned_tweet_id": "2030988343010587066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029527827557810176/9ffvl21W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 76,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/A4NDe2ZabK",
+        "username": "Howa_Satou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996300544093405184"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996300551261401194",
+    "created_at": "2025-12-03T19:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T20:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996300551261401194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lKlmEDrr40",
+          "end": 128,
+          "expanded_url": "https://x.com/dnshu135734/status/1996300551261401194/photo/1",
+          "media_key": "3_1996300544093405184",
+          "start": 105,
+          "url": "https://t.co/lKlmEDrr40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996300551261401194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偶然翻首页有没有什么感兴趣的轻小说时就又看到了这个！\n接下来，隆重介绍的是，\n本世纪最好笑的轻小说喵！（并非）\n女主的思路和心路历程真的好好笑(♡˙︶˙♡)\n而且情节一波三折。“2年前你从未看过的反转神作！” https://t.co/lKlmEDrr40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_1996300544093405184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7RIxJubQAAiZs8.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996300544093405184"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996300551261401194",
+        "created_at": "2025-12-03T19:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T20:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996300551261401194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKlmEDrr40",
+              "end": 128,
+              "expanded_url": "https://x.com/dnshu135734/status/1996300551261401194/photo/1",
+              "media_key": "3_1996300544093405184",
+              "start": 105,
+              "url": "https://t.co/lKlmEDrr40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996300551261401194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶然翻首页有没有什么感兴趣的轻小说时就又看到了这个！\n接下来，隆重介绍的是，\n本世纪最好笑的轻小说喵！（并非）\n女主的思路和心路历程真的好好笑(♡˙︶˙♡)\n而且情节一波三折。“2年前你从未看过的反转神作！” https://t.co/lKlmEDrr40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 410
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

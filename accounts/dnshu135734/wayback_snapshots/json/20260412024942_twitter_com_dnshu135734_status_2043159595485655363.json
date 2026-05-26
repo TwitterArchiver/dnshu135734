@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2042995810858905905",
+    "created_at": "2026-04-12T02:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043159595485655363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043159595485655363",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042995810858905905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 揉揉陆…………呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2042995810858905905",
+        "created_at": "2026-04-12T02:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043159595485655363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043159595485655363",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042995810858905905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 揉揉陆…………呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2042995810858905905",
+        "created_at": "2026-04-11T15:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042995810858905905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042995810858905905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么讨厌我以后别找我玩了呗，喊我来又一直骂是什么意思；几百个小时了不知道我智商不到及格线吗一直骂骂骂，骂完了假装安慰说他妈的多找别人问题，骂的时候你怎么不说呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜下面是满满当当的简介\n最喜欢的人@Aureliax17QwQ ｜陆姐姐 @MeraK_Rinchi ｜不知道会不会同意我把她加到简介里的帆 @nanami_mua｜章鱼妈妈！@mihuanhuanhuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "MeraK_Rinchi"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nanami_mua"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "mihuanhuanhuan"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 5040,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1740
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "Karagawa Roku \\ 没有价值之人 \\ 旧名凛柒 \\ INFJ-T/OH \\ 数学天才 \\ 音游人 \\ RTS & F/TPS玩家 \\ 704第一狙击手 \\ 手伤严重 \\ ADHD存疑 \\ 信息秒回——「望む結末へと伸ばした両手」\n逃生舱@Go_Karagawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 124,
+                "username": "Go_Karagawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnchiie_roku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnchiie_roku",
+                "start": 0,
+                "url": "https://t.co/xerBWOl3hM"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川🎇陸🎆༻",
+        "pinned_tweet_id": "2035030810768883832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028407094052012032/kaLqtjRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 484,
+          "like_count": 13984,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/xerBWOl3hM",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

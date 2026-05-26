@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2025996115070607773",
+    "created_at": "2026-02-23T18:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T19:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026006730128371832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601617260439044096",
+          "start": 0,
+          "username": "WE32655031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026006730128371832",
+    "in_reply_to_user_id": "1601617260439044096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026006156108603778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WE32655031 谢谢……现在哭过心情好了不少。会哭真的是人类最好的回调机制呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2025996115070607773",
+        "created_at": "2026-02-23T18:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026006730128371832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601617260439044096",
+              "start": 0,
+              "username": "WE32655031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026006730128371832",
+        "in_reply_to_user_id": "1601617260439044096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026006156108603778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WE32655031 谢谢……现在哭过心情好了不少。会哭真的是人类最好的回调机制呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601617260439044096",
+        "conversation_id": "2025996115070607773",
+        "created_at": "2026-02-23T18:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026006156108603778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026006156108603778",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025996115070607773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 你好:D\n我來打擾你了!!!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1081
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T16:38:17.000Z",
+        "description": "你好 我是個好人:D",
+        "id": "1601617260439044096",
+        "name": "WE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025956937263886336/39mcej-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 76,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 107
+        },
+        "username": "WE32655031",
+        "verified": false
+      }
+    ]
+  }
+}

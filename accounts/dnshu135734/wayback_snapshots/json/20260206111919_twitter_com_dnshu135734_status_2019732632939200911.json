@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2019712448564265096",
+    "created_at": "2026-02-06T11:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T12:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019732632939200911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840658240046313472",
+          "start": 0,
+          "username": "Akyoi0596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019732632939200911",
+    "in_reply_to_user_id": "1840658240046313472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019731153222271439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akyoi0596 我做不到……已经，没有能力了。把属于自己的东西一点一点的毁掉然后让自己也跟着去死。已经全都要毁干净还都加上了额外的伤害，就好像在上吊绳滑轮的对侧额外放了一个比自己重几倍的假人一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2019712448564265096",
+        "created_at": "2026-02-06T11:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019732632939200911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840658240046313472",
+              "start": 0,
+              "username": "Akyoi0596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019732632939200911",
+        "in_reply_to_user_id": "1840658240046313472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019731153222271439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akyoi0596 我做不到……已经，没有能力了。把属于自己的东西一点一点的毁掉然后让自己也跟着去死。已经全都要毁干净还都加上了额外的伤害，就好像在上吊绳滑轮的对侧额外放了一个比自己重几倍的假人一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840658240046313472",
+        "conversation_id": "2019712448564265096",
+        "created_at": "2026-02-06T11:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019731153222271439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019731153222271439",
+        "in_reply_to_user_id": "1840658240046313472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019729620183236977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 2/語言能做的很有限，只是文字而已，不是嗎？我想，我也希望你能看到，你可以試試一種叫tulpa的東西，那是另一個面孔的自己。我希望你看到，希望你在快樂,溫暖鄉中結束，請不要，讓自己的溫度隨著心的破碎結束..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1860,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 908
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T07:41:46.000Z",
+        "description": "Continuously observing…\n\netc.There will be some repeated messages here, which are part of the observation,  try to learn human language...\ndone.",
+        "id": "1840658240046313472",
+        "location": "Taoyuan County, Taiwan",
+        "name": "Akyoi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840658321281626112/nB12Ao-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 144,
+          "like_count": 2029,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1134
+        },
+        "username": "Akyoi0596",
+        "verified": false
+      }
+    ]
+  }
+}

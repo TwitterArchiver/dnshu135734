@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005581139893972992"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005225054486020453",
+    "created_at": "2025-12-29T10:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T11:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005581149071172056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808047925676986368",
+          "start": 0,
+          "username": "xxx_zzx71446"
+        },
+        {
+          "end": 29,
+          "id": "1847835560175685635",
+          "start": 14,
+          "username": "OPPOFANS114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E31UKJc6WU",
+          "end": 66,
+          "expanded_url": "https://x.com/dnshu135734/status/2005581149071172056/photo/1",
+          "media_key": "3_2005581139893972992",
+          "start": 43,
+          "url": "https://t.co/E31UKJc6WU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005581149071172056",
+    "in_reply_to_user_id": "1808047925676986368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005570875148628376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_zzx71446 @OPPOFANS114514 原本的选项是这种样子嘛！ https://t.co/E31UKJc6WU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 232,
+        "media_key": "3_2005581139893972992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VBa7OacAApPsj.jpg",
+        "width": 182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005581139893972992"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005225054486020453",
+        "created_at": "2025-12-29T10:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005581149071172056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808047925676986368",
+              "start": 0,
+              "username": "xxx_zzx71446"
+            },
+            {
+              "end": 29,
+              "id": "1847835560175685635",
+              "start": 14,
+              "username": "OPPOFANS114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E31UKJc6WU",
+              "end": 66,
+              "expanded_url": "https://x.com/dnshu135734/status/2005581149071172056/photo/1",
+              "media_key": "3_2005581139893972992",
+              "start": 43,
+              "url": "https://t.co/E31UKJc6WU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005581149071172056",
+        "in_reply_to_user_id": "1808047925676986368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005570875148628376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_zzx71446 @OPPOFANS114514 原本的选项是这种样子嘛！ https://t.co/E31UKJc6WU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808047925676986368",
+        "conversation_id": "2005225054486020453",
+        "created_at": "2025-12-29T09:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T10:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005570875148628376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005570875148628376",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005567207095590950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 选项键被扣了（确信）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 11,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 591
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "",
+        "id": "1808047925676986368",
+        "location": "距离10.3km",
+        "name": "流光诺梦",
+        "pinned_tweet_id": "2001984391845908777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981046735225913344/HPTthMmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 403,
+          "like_count": 10056,
+          "listed_count": 4,
+          "media_count": 1450,
+          "tweet_count": 12488
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVopG5"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000220473616138240/a4ab0Rnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 1911,
+          "like_count": 17160,
+          "listed_count": 6,
+          "media_count": 520,
+          "tweet_count": 16459
+        },
+        "url": "https://t.co/37m0RVopG5",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

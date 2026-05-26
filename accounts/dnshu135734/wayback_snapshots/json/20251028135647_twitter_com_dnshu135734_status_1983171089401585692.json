@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1983171089401585692",
+    "created_at": "2025-10-28T13:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T14:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983171089401585692"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983171089401585692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或许我把和自己相关的很多东西看得太重要了。总觉得那些有很重要的意义……然后导致自己不断的在很多小事情上纠结来纠结去。所以这算是某种意义的穿长衫吗？\n长裙是好文明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1983171089401585692",
+        "created_at": "2025-10-28T13:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983171089401585692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983171089401585692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许我把和自己相关的很多东西看得太重要了。总觉得那些有很重要的意义……然后导致自己不断的在很多小事情上纠结来纠结去。所以这算是某种意义的穿长衫吗？\n长裙是好文明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 111
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

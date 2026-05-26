@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1989251197572907112",
+    "created_at": "2025-11-14T08:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989251197572907112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751178361970515968",
+          "start": 3,
+          "username": "Fouryn_Astar"
+        },
+        {
+          "end": 25,
+          "id": "1864468641305251844",
+          "start": 18,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989251197572907112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987704943378325653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fouryn_Astar: @AkaNpc 感觉推特里的各位，有一半是陷在心理困境里挣扎无能的自杀预备役，另一半是有钱有爱幸福不已的生活成功人士，如此割裂以至于我不知道哪一半跟平均普通人更贴近"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1989251197572907112",
+        "created_at": "2025-11-14T08:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989251197572907112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751178361970515968",
+              "start": 3,
+              "username": "Fouryn_Astar"
+            },
+            {
+              "end": 25,
+              "id": "1864468641305251844",
+              "start": 18,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989251197572907112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987704943378325653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fouryn_Astar: @AkaNpc 感觉推特里的各位，有一半是陷在心理困境里挣扎无能的自杀预备役，另一半是有钱有爱幸福不已的生活成功人士，如此割裂以至于我不知道哪一半跟平均普通人更贴近"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751178361970515968",
+        "conversation_id": "1987380055518159353",
+        "created_at": "2025-11-10T02:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T03:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987704943378325653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987704943378325653",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2848,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987380055518159353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc 感觉推特里的各位，有一半是陷在心理困境里挣扎无能的自杀预备役，另一半是有钱有爱幸福不已的生活成功人士，如此割裂以至于我不知道哪一半跟平均普通人更贴近"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 321
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T09:40:40.000Z",
+        "description": "互联网中立派四有 | 国际高中高三生 | 友跨 | 批量生产心脏与西部铁轨 | 镇魂曲演奏家 | 因为天气好，因为天气不好，因为天气刚刚好 | 欢迎互fo！",
+        "id": "1751178361970515968",
+        "location": "The Court Of The Crimson King",
+        "name": "四有有有有-ChakkaChakkaメルくりぃ🫨",
+        "pinned_tweet_id": "1984506418037473597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987537267016278016/Znlcik98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 573,
+          "like_count": 8261,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 2124
+        },
+        "username": "Fouryn_Astar",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/AM3r3Y",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/AM3r3Y",
+                "start": 0,
+                "url": "https://t.co/xpg16bPmSN"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "1909985102790349042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919715132814581760/ArvfnMh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10964,
+          "following_count": 116,
+          "like_count": 9039,
+          "listed_count": 17,
+          "media_count": 136,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/xpg16bPmSN",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

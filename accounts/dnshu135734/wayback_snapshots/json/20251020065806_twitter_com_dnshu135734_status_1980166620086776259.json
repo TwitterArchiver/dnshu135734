@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1980164649674056043",
+    "created_at": "2025-10-20T06:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980166620086776259"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980166620086776259",
+    "in_reply_to_user_id": "1972363680198361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980164649674056043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么现在都在站队呢吵架根据立场扣帽子呢……一边说mtf也是可以被女权容纳的，一边又在大开地图炮。明明连统一的说法都没有，却还在标榜自己。说到底还是性别政治（不过那句你永远是xy好好笑）\n吵架好累…原来大家的状态都这么好\n我的话…我可以只支持自己和朋友（虽然不存在）还有丝之歌和以撒吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1980164649674056043",
+        "created_at": "2025-10-20T06:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980166620086776259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980166620086776259",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980164649674056043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么现在都在站队呢吵架根据立场扣帽子呢……一边说mtf也是可以被女权容纳的，一边又在大开地图炮。明明连统一的说法都没有，却还在标榜自己。说到底还是性别政治（不过那句你永远是xy好好笑）\n吵架好累…原来大家的状态都这么好\n我的话…我可以只支持自己和朋友（虽然不存在）还有丝之歌和以撒吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1980164649674056043",
+        "created_at": "2025-10-20T06:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980164649674056043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianshufa/stat…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/lianshufa/status/1979877643354005966",
+              "start": 140,
+              "url": "https://t.co/meikxsuQmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980164649674056043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979877643354005966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持男权支持女权这种……为什么非要站队呢\n况且支持这种，永远只能以第三方的角度去支持而不是直接加入啊\n就好像支持巴勒斯坦很多人或许愿意，但真的要冒着危险去成为巴勒斯坦人的一员吗？即使是友方也仍然有可能被排斥被攻击，因为不是所有人都觉得你是同伴，仍然有人会把你视为异类，很不值得… https://t.co/meikxsuQmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 77
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

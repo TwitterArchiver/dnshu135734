@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1997728091809177752",
+    "created_at": "2025-12-07T18:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T19:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997728091809177752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997728091809177752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997711063358505253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 死亡是这个混沌宇宙中唯一确定的事情，既可能是悲惨的结局，也可能是从痛苦中的解脱\n我们是唯—一种时刻能感知到死亡的生物，这是强加在我们身上的诅咒。\n一只逃脱狩猎的羚羊，会以为自己永远逃过了死亡，而可怜的人类却心知肚明，自己正一步步走向虚无，相比之下…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1997728091809177752",
+        "created_at": "2025-12-07T18:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T19:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997728091809177752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997728091809177752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997711063358505253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 死亡是这个混沌宇宙中唯一确定的事情，既可能是悲惨的结局，也可能是从痛苦中的解脱\n我们是唯—一种时刻能感知到死亡的生物，这是强加在我们身上的诅咒。\n一只逃脱狩猎的羚羊，会以为自己永远逃过了死亡，而可怜的人类却心知肚明，自己正一步步走向虚无，相比之下…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "1997711063358505253",
+        "created_at": "2025-12-07T16:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997711063358505253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997711063358505253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死亡是这个混沌宇宙中唯一确定的事情，既可能是悲惨的结局，也可能是从痛苦中的解脱\n我们是唯—一种时刻能感知到死亡的生物，这是强加在我们身上的诅咒。\n一只逃脱狩猎的羚羊，会以为自己永远逃过了死亡，而可怜的人类却心知肚明，自己正一步步走向虚无，相比之下，前者是多么幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 445
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.7 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜非二元性别｜朋克摇滚 哲学 小说爱好者｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信我 只fo同类! 健全勿扰",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1993204221223879044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 171,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 777
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2030610118711328944",
+    "created_at": "2026-03-08T13:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030633837169115177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030633837169115177",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030610118711328944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 在楼顶吹吹风什么的……一般这样之后我就会很有干劲，但不要吹感冒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2030610118711328944",
+        "created_at": "2026-03-08T13:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030633837169115177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030633837169115177",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030610118711328944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 在楼顶吹吹风什么的……一般这样之后我就会很有干劲，但不要吹感冒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2030610118711328944",
+        "created_at": "2026-03-08T11:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030610118711328944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030610118711328944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "需要找一个能让自己快速提起干劲的方法……！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 3211,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1276
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "Karagawa Roku \\ 旧名凛柒 \\ INFJ-T/OH \\ 可能是天使 \\ 曾经的数学天才 \\ 音游 + RTS + F/TPS玩家 \\ 手伤严重 \\ ADHD存疑 \\ 信息秒回——「望む結末へと伸ばした両手」\n逃生舱@Go_Karagawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Go_Karagawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnchiie_roku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnchiie_roku",
+                "start": 0,
+                "url": "https://t.co/xerBWOl3hM"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川陸༻",
+        "pinned_tweet_id": "2022340038605074450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028407094052012032/kaLqtjRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 445,
+          "like_count": 11588,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/xerBWOl3hM",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

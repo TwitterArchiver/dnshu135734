@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2006687507723989070",
+    "created_at": "2026-01-01T11:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006694384948171111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898370048542359552",
+          "start": 0,
+          "username": "hahayaaai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006694384948171111",
+    "in_reply_to_user_id": "1898370048542359552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006687507723989070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahayaaai www把对方ban掉之后就再也不敢点开了（眼不见为净！）\n结果之前点开发现确实有一点视奸并且对方过的超级好过后会难受好久（注销账号后还会被踩头的感觉也太坏了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2006687507723989070",
+        "created_at": "2026-01-01T11:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006694384948171111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898370048542359552",
+              "start": 0,
+              "username": "hahayaaai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006694384948171111",
+        "in_reply_to_user_id": "1898370048542359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006687507723989070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahayaaai www把对方ban掉之后就再也不敢点开了（眼不见为净！）\n结果之前点开发现确实有一点视奸并且对方过的超级好过后会难受好久（注销账号后还会被踩头的感觉也太坏了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898370048542359552",
+        "conversation_id": "2006687507723989070",
+        "created_at": "2026-01-01T11:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006687507723989070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006687507723989070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我经常删帖还有一个原因是害怕被那个人视奸，我可能有一天会直接销号，但是我怕有后患，所以经常勤删帖。在这之前我将扩一些重要的人（如果刷空间的话……）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 11,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 630
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T13:48:00.000Z",
+        "description": "碎碎念频道|各种发泄|负能量偏多|感到不安所以经常删帖 没有任何恶意",
+        "id": "1898370048542359552",
+        "name": "咪咪虾条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934692496736653312/ZtXTc4ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 106,
+          "like_count": 2899,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 300
+        },
+        "username": "hahayaaai",
+        "verified": false
+      }
+    ]
+  }
+}

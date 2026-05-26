@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2011515694744305827",
+    "created_at": "2026-01-15T00:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T01:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011603619511222494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011603619511222494",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011515694744305827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 3，33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2011515692131241984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-pW3VGbUAAiz-7.jpg",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2011515694744305827",
+        "created_at": "2026-01-15T00:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T01:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011603619511222494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011603619511222494",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011515694744305827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 3，33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011515692131241984"
+          ]
+        },
+        "author_id": "3889037112",
+        "conversation_id": "2011515694744305827",
+        "created_at": "2026-01-14T19:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T20:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011515694744305827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtFI9e9ctL",
+              "end": 32,
+              "expanded_url": "https://x.com/ntfuko/status/2011515694744305827/photo/1",
+              "media_key": "3_2011515692131241984",
+              "start": 9,
+              "url": "https://t.co/WtFI9e9ctL"
+            },
+            {
+              "display_url": "x.com/saya8964cat/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/saya8964cat/status/2010882702195802309",
+              "start": 33,
+              "url": "https://t.co/6MEE4koBNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011515694744305827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010882702195802309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像沒有人問過我 https://t.co/WtFI9e9ctL https://t.co/6MEE4koBNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 772
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了\n還希望保持聯絡的推友請fo我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "pinned_tweet_id": "2007498195707015530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007427830200901632/hEY_dCx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 132,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 127
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

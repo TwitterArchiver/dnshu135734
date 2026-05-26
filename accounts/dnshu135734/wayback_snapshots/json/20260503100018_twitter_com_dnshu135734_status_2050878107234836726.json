@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050878099815124992"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050878107234836726",
+    "created_at": "2026-05-03T10:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050878107234836726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SY8cPTZ8VX",
+          "end": 80,
+          "expanded_url": "https://x.com/dnshu135734/status/2050878107234836726/photo/1",
+          "media_key": "3_2050878099815124992",
+          "start": 57,
+          "url": "https://t.co/SY8cPTZ8VX"
+        },
+        {
+          "display_url": "x.com/dnshu135734/st…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/dnshu135734/status/2050203219016757536",
+          "start": 81,
+          "url": "https://t.co/7V6pWl9gRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050878107234836726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050203219016757536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就说17是把仅有的钱拿来养小男友了吧w (▰˘◡˘▰)\n洗不清了（）\n我会洗干净在床上等17的喵（bushi） https://t.co/SY8cPTZ8VX https://t.co/7V6pWl9gRE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050878099815124992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYuxAkb0AABkKO.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050878099815124992"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050878107234836726",
+        "created_at": "2026-05-03T10:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050878107234836726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SY8cPTZ8VX",
+              "end": 80,
+              "expanded_url": "https://x.com/dnshu135734/status/2050878107234836726/photo/1",
+              "media_key": "3_2050878099815124992",
+              "start": 57,
+              "url": "https://t.co/SY8cPTZ8VX"
+            },
+            {
+              "display_url": "x.com/dnshu135734/st…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/dnshu135734/status/2050203219016757536",
+              "start": 81,
+              "url": "https://t.co/7V6pWl9gRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050878107234836726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050203219016757536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就说17是把仅有的钱拿来养小男友了吧w (▰˘◡˘▰)\n洗不清了（）\n我会洗干净在床上等17的喵（bushi） https://t.co/SY8cPTZ8VX https://t.co/7V6pWl9gRE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2050197049195594047",
+        "created_at": "2026-05-01T13:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050203219016757536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            },
+            {
+              "end": 25,
+              "id": "1758324617838788608",
+              "start": 15,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 33,
+              "id": "2012841769105567744",
+              "start": 26,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050203219016757536",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050202547319955577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ @axzamyzed @18nuun 17是不是把你那仅有的钱拿来养小男友了！！！（暴论）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n超级可爱的恋人喵@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 5769,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1928
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

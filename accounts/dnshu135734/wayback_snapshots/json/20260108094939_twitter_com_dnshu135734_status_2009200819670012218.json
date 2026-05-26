@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009200804054355968",
+        "3_2009200804045967360"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009200819670012218",
+    "created_at": "2026-01-08T09:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009200819670012218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9N8sOUiQ39",
+          "end": 59,
+          "expanded_url": "https://x.com/dnshu135734/status/2009200819670012218/photo/1",
+          "media_key": "3_2009200804054355968",
+          "start": 36,
+          "url": "https://t.co/9N8sOUiQ39"
+        },
+        {
+          "display_url": "pic.x.com/9N8sOUiQ39",
+          "end": 59,
+          "expanded_url": "https://x.com/dnshu135734/status/2009200819670012218/photo/1",
+          "media_key": "3_2009200804045967360",
+          "start": 36,
+          "url": "https://t.co/9N8sOUiQ39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009200819670012218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么头上长光环了，飞升极乐世界了嘛……\n还有怎么一转战斗修女对抗混沌 https://t.co/9N8sOUiQ39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2009200804054355968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IdfHAW0AAT-n7.jpg",
+        "width": 864
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009200804045967360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IdfG-W0AAwlGa.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009200804054355968",
+            "3_2009200804045967360"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009200819670012218",
+        "created_at": "2026-01-08T09:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009200819670012218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9N8sOUiQ39",
+              "end": 59,
+              "expanded_url": "https://x.com/dnshu135734/status/2009200819670012218/photo/1",
+              "media_key": "3_2009200804054355968",
+              "start": 36,
+              "url": "https://t.co/9N8sOUiQ39"
+            },
+            {
+              "display_url": "pic.x.com/9N8sOUiQ39",
+              "end": 59,
+              "expanded_url": "https://x.com/dnshu135734/status/2009200819670012218/photo/1",
+              "media_key": "3_2009200804045967360",
+              "start": 36,
+              "url": "https://t.co/9N8sOUiQ39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009200819670012218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么头上长光环了，飞升极乐世界了嘛……\n还有怎么一转战斗修女对抗混沌 https://t.co/9N8sOUiQ39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 731
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

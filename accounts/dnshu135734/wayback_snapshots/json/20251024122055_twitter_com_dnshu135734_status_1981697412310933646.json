@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1981697412310933646",
+    "created_at": "2025-10-24T12:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T13:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981697412310933646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981697412310933646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想吃药但是没有合适的了。真讨厌，试试目前的药加量会有什么效果吧，如果一直这样的话，还不如多吃点醛硫平。我已经不知道该怎么处理现实问题了，可以重新来过吗？不想接触任何现实的事物了。为什么我这种废物还要上学还要处理别的问题啊。难道真的完全避不开吗。羡慕自由的生活，我不想这样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1981697412310933646",
+        "created_at": "2025-10-24T12:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981697412310933646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981697412310933646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃药但是没有合适的了。真讨厌，试试目前的药加量会有什么效果吧，如果一直这样的话，还不如多吃点醛硫平。我已经不知道该怎么处理现实问题了，可以重新来过吗？不想接触任何现实的事物了。为什么我这种废物还要上学还要处理别的问题啊。难道真的完全避不开吗。羡慕自由的生活，我不想这样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 92
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

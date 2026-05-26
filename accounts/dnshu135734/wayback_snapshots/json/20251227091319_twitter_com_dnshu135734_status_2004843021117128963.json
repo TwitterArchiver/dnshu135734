@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2004425493492519359",
+    "created_at": "2025-12-27T09:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T10:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004843021117128963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840658240046313472",
+          "start": 0,
+          "username": "Akyoi0596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004843021117128963",
+    "in_reply_to_user_id": "1840658240046313472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004842531784442156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akyoi0596 不是对战，是和大厅匹配的人一起玩这种（虽然游戏结束后确实有pvp小游戏）\n竞技游戏对于我来说还是太难了……我玩什么游戏都好菜。玩以撒也只是属于萌新水准的，偶尔会被责怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2004425493492519359",
+        "created_at": "2025-12-27T09:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004843021117128963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840658240046313472",
+              "start": 0,
+              "username": "Akyoi0596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004843021117128963",
+        "in_reply_to_user_id": "1840658240046313472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004842531784442156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akyoi0596 不是对战，是和大厅匹配的人一起玩这种（虽然游戏结束后确实有pvp小游戏）\n竞技游戏对于我来说还是太难了……我玩什么游戏都好菜。玩以撒也只是属于萌新水准的，偶尔会被责怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840658240046313472",
+        "conversation_id": "2004425493492519359",
+        "created_at": "2025-12-27T09:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004842531784442156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004842531784442156",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004841531124207718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 哦，容我谢谢你的邀请。嘛，我上次和真人对战都是五六年前了，我的技术还是技术力都不太够，可能玩着玩着就砸键盘之类的也说不定。不过，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 535
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T07:41:46.000Z",
+        "description": "Continuously observing…\n\netc.There will be some repeated messages here, which are part of the observation,  try to learn human language...\ndone.",
+        "id": "1840658240046313472",
+        "location": "Taoyuan County, Taiwan",
+        "name": "Akyoi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840658321281626112/nB12Ao-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 149,
+          "like_count": 1813,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1050
+        },
+        "username": "Akyoi0596",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1988597281659158772",
+    "created_at": "2025-11-13T08:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988888381128945948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906800861570818048",
+          "start": 0,
+          "username": "Violetvelours"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988888381128945948",
+    "in_reply_to_user_id": "1906800861570818048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988597281659158772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Violetvelours 优诺4.0！奶味很足，甜甜的（5.0也可以，但是太浓了而且常温有点腥）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1988597281659158772",
+        "created_at": "2025-11-13T08:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988888381128945948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906800861570818048",
+              "start": 0,
+              "username": "Violetvelours"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988888381128945948",
+        "in_reply_to_user_id": "1906800861570818048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988597281659158772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Violetvelours 优诺4.0！奶味很足，甜甜的（5.0也可以，但是太浓了而且常温有点腥）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906800861570818048",
+        "conversation_id": "1988597281659158772",
+        "created_at": "2025-11-12T13:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988597281659158772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988597281659158772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14289,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我特别特别爱喝牛奶，以前国产牛奶最爱喝的是小西牛，结果现在买了小西牛发现和以前根本不是一个味道了，寡淡得不行。回来试了好几款奶，现在就感觉认养一头牛的奶味还算足，悦鲜活优倍之类的我喝起来也觉得还差点意思。\n有没有爱喝奶的友友给我推荐一些好喝的，我喜欢奶味非常香浓的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 315
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T20:08:58.000Z",
+        "description": "“浮沉随浪，只记今宵。”｜@Ttcookingdiary",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Ttcookingdiary"
+              }
+            ]
+          }
+        },
+        "id": "1906800861570818048",
+        "location": "私信已关",
+        "name": "偷偷大王",
+        "pinned_tweet_id": "1936041653095023085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906804305673302016/eBSZovQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 44,
+          "like_count": 2088,
+          "listed_count": 9,
+          "media_count": 43,
+          "tweet_count": 131
+        },
+        "username": "Violetvelours",
+        "verified": false
+      }
+    ]
+  }
+}

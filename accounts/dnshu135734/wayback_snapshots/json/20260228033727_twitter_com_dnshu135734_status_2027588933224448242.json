@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2027563162380435888",
+    "created_at": "2026-02-28T03:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027588933224448242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1144526597321453569",
+          "start": 0,
+          "username": "JaskasKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027588933224448242",
+    "in_reply_to_user_id": "1144526597321453569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027588433129181629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JaskasKn 什么。抱歉我并不认识你们说的那个17度网黄……只是重名了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2027563162380435888",
+        "created_at": "2026-02-28T03:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027588933224448242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1144526597321453569",
+              "start": 0,
+              "username": "JaskasKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027588933224448242",
+        "in_reply_to_user_id": "1144526597321453569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027588433129181629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JaskasKn 什么。抱歉我并不认识你们说的那个17度网黄……只是重名了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144526597321453569",
+        "conversation_id": "2027563162380435888",
+        "created_at": "2026-02-28T03:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027588433129181629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027588433129181629",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027563162380435888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 你可以看看我的私信吗 求求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 2506,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1146
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-28T08:42:59.000Z",
+        "description": "",
+        "id": "1144526597321453569",
+        "name": "JASKASKn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516382758242689026/RNNBpKF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 162,
+          "like_count": 83,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 295
+        },
+        "username": "JaskasKn",
+        "verified": false
+      }
+    ]
+  }
+}

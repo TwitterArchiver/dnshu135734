@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2007356283389903209",
+    "created_at": "2026-01-03T07:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T08:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007356283389903209"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007356283389903209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闲着没事，不如做一下目前的od印象汇总吧……（耐药太高了）\n愈美：48t无明显幻觉，在一高左右？不怎么影响运动和鉴赏能力，胶囊的味道好恶，上厕所好难\npr：30t红普轻微解离，有点影响运动。最大的问题就是吃这个为什么慰不出来！\n替扎尼定：没什么感觉的样子，一般6t\n白兔：一瓶无感觉，吃完手粘粘的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2007356283389903209",
+        "created_at": "2026-01-03T07:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007356283389903209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007356283389903209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲着没事，不如做一下目前的od印象汇总吧……（耐药太高了）\n愈美：48t无明显幻觉，在一高左右？不怎么影响运动和鉴赏能力，胶囊的味道好恶，上厕所好难\npr：30t红普轻微解离，有点影响运动。最大的问题就是吃这个为什么慰不出来！\n替扎尼定：没什么感觉的样子，一般6t\n白兔：一瓶无感觉，吃完手粘粘的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 1140,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 656
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

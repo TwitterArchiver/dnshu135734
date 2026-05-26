@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2027414898784043373",
+    "created_at": "2026-02-27T16:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027414898784043373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laki954456/sta…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/laki954456/status/2027413974707519954",
+          "start": 54,
+          "url": "https://t.co/CvoN8BqKmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027414898784043373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027413974707519954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "a这个确实快（）不敢想象地雷女拿着一根铁棍一柄尖刀嚓嚓几下，磨刀霍霍的在手臂上精雕玉琢出雪兔图案的奇妙场面 https://t.co/CvoN8BqKmh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2027414898784043373",
+        "created_at": "2026-02-27T16:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027414898784043373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laki954456/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/laki954456/status/2027413974707519954",
+              "start": 54,
+              "url": "https://t.co/CvoN8BqKmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027414898784043373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027413974707519954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "a这个确实快（）不敢想象地雷女拿着一根铁棍一柄尖刀嚓嚓几下，磨刀霍霍的在手臂上精雕玉琢出雪兔图案的奇妙场面 https://t.co/CvoN8BqKmh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896948222570147840",
+        "conversation_id": "2026074288252707078",
+        "created_at": "2026-02-27T16:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027413974707519954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027413974707519954",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026074288252707078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 剔骨刀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 2,
+          "like_count": 2456,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1129
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:38:36.000Z",
+        "description": "",
+        "id": "1896948222570147840",
+        "location": "Hong Kong",
+        "name": "em？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901088265647910913/qHy8PP0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 72,
+          "like_count": 889,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1090
+        },
+        "username": "laki954456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2006010650657714286",
+    "created_at": "2025-12-31T10:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006309250101071883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918279776969842688",
+          "start": 0,
+          "username": "2TejHqfgsS69569"
+        },
+        {
+          "end": 31,
+          "id": "1906714014299865088",
+          "start": 17,
+          "username": "makiisyourgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006309250101071883",
+    "in_reply_to_user_id": "1918279776969842688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006060261959163962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2TejHqfgsS69569 @makiisyourgod ai确实很安全呢。但距离感太强了。就好像对面是一个心理治疗师而不是自己周身的朋友\n总能感受到强烈的不对等\n虽然会伤害自己但是总会希望可以遇见合适的对象，因为这是很美好的事情呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2006010650657714286",
+        "created_at": "2025-12-31T10:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006309250101071883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918279776969842688",
+              "start": 0,
+              "username": "2TejHqfgsS69569"
+            },
+            {
+              "end": 31,
+              "id": "1906714014299865088",
+              "start": 17,
+              "username": "makiisyourgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006309250101071883",
+        "in_reply_to_user_id": "1918279776969842688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006060261959163962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2TejHqfgsS69569 @makiisyourgod ai确实很安全呢。但距离感太强了。就好像对面是一个心理治疗师而不是自己周身的朋友\n总能感受到强烈的不对等\n虽然会伤害自己但是总会希望可以遇见合适的对象，因为这是很美好的事情呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918279776969842688",
+        "conversation_id": "2006010650657714286",
+        "created_at": "2025-12-30T17:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006060261959163962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906714014299865088",
+              "start": 0,
+              "username": "makiisyourgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006060261959163962",
+        "in_reply_to_user_id": "1906714014299865088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006053613584425049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makiisyourgod 感觉已经没有人类了。\n既然是无话不说。AI可能还更好点。没有信任危机也不会伤了你的情绪。\n更主要的是他不会背叛你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 11,
+          "like_count": 1090,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 610
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:22:12.000Z",
+        "description": "世界很好，你也不赖。\n匿名提问箱\nhttps://t.co/J4wVJFSxex",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2tejhqfgss69569",
+                "end": 40,
+                "expanded_url": "https://ngl.link/2tejhqfgss69569",
+                "start": 17,
+                "url": "https://t.co/J4wVJFSxex"
+              }
+            ]
+          }
+        },
+        "id": "1918279776969842688",
+        "name": "小白覆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998236948713086976/pxAnc45g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 43,
+          "like_count": 3353,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2867
+        },
+        "username": "2TejHqfgsS69569",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:24:00.000Z",
+        "description": "",
+        "id": "1906714014299865088",
+        "location": "安全出口EXIT空间和时间",
+        "name": "巻比",
+        "pinned_tweet_id": "2004614455381164090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004623418067746816/FsztM2cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 217,
+          "like_count": 26432,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1764
+        },
+        "username": "makiisyourgod",
+        "verified": false
+      }
+    ]
+  }
+}

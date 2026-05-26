@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1975973761825595568",
+    "created_at": "2025-10-08T17:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T18:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975973761825595568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ppt12345_/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ppt12345_/status/1975593288804802884",
+          "start": 16,
+          "url": "https://t.co/Q8H1IcKDfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975973761825595568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975593288804802884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢的话就算当撒b也没关系的… https://t.co/Q8H1IcKDfl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1975973761825595568",
+        "created_at": "2025-10-08T17:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T18:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975973761825595568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ppt12345_/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ppt12345_/status/1975593288804802884",
+              "start": 16,
+              "url": "https://t.co/Q8H1IcKDfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975973761825595568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975593288804802884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢的话就算当撒b也没关系的… https://t.co/Q8H1IcKDfl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941452554526916608",
+        "conversation_id": "1975593288804802884",
+        "created_at": "2025-10-07T16:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975593288804802884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975593288804802884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22137,
+          "like_count": 408,
+          "quote_count": 16,
+          "reply_count": 33,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "为了被对方喜欢放低姿态的人都是大傻b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T11:02:23.000Z",
+        "description": "祝你开心｜抽疯（偶尔假文艺）｜碎碎念，俺是农村人不+v ｜私信随缘回  ｜@Jlifewithjdm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "Jlifewithjdm"
+              }
+            ]
+          }
+        },
+        "id": "1941452554526916608",
+        "name": "xxxxx",
+        "pinned_tweet_id": "1947277986719281337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964892601162842112/0-jj0BWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 95,
+          "like_count": 4003,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 1569
+        },
+        "username": "PPT12345_",
+        "verified": false
+      }
+    ]
+  }
+}

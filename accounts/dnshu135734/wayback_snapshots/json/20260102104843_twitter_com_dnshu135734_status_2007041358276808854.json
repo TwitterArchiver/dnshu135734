@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007041347539312640"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007041358276808854",
+    "created_at": "2026-01-02T10:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T11:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007041358276808854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8G0HsN5ftC",
+          "end": 126,
+          "expanded_url": "https://x.com/dnshu135734/status/2007041358276808854/photo/1",
+          "media_key": "3_2007041347539312640",
+          "start": 103,
+          "url": "https://t.co/8G0HsN5ftC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007041358276808854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不会找聊天话题？\n事实：话题很难找\n日常，好无聊\n它还很累\n而 gpt 不动手帮忙\n（它最坏了）\n不可能完成的任务？\n介绍………弱智视频！！\n弱智视频可以让你和朋友找到话题，同时污染朋友的眼睛。这很简单！ https://t.co/8G0HsN5ftC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007041347539312640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pxeMmaIAAn0_o.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007041347539312640"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007041358276808854",
+        "created_at": "2026-01-02T10:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007041358276808854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8G0HsN5ftC",
+              "end": 126,
+              "expanded_url": "https://x.com/dnshu135734/status/2007041358276808854/photo/1",
+              "media_key": "3_2007041347539312640",
+              "start": 103,
+              "url": "https://t.co/8G0HsN5ftC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007041358276808854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会找聊天话题？\n事实：话题很难找\n日常，好无聊\n它还很累\n而 gpt 不动手帮忙\n（它最坏了）\n不可能完成的任务？\n介绍………弱智视频！！\n弱智视频可以让你和朋友找到话题，同时污染朋友的眼睛。这很简单！ https://t.co/8G0HsN5ftC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 12,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 640
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

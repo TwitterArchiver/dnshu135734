@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1990138956563067309",
+    "created_at": "2025-11-17T15:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990448573142708251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791898542379782144",
+          "start": 0,
+          "username": "Margarette63331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990448573142708251",
+    "in_reply_to_user_id": "1791898542379782144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990448045247566322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Margarette63331 哦哦。看来我确实很不讨人喜欢。抱歉了呢！如果冒犯到了出现了这种情绪，那么我想应该是我的问题。只不过变成了恶性循环"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1990138956563067309",
+        "created_at": "2025-11-17T15:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990448573142708251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791898542379782144",
+              "start": 0,
+              "username": "Margarette63331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990448573142708251",
+        "in_reply_to_user_id": "1791898542379782144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990448045247566322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Margarette63331 哦哦。看来我确实很不讨人喜欢。抱歉了呢！如果冒犯到了出现了这种情绪，那么我想应该是我的问题。只不过变成了恶性循环"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791898542379782144",
+        "conversation_id": "1990138956563067309",
+        "created_at": "2025-11-17T15:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990448045247566322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990448045247566322",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990446767075442746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 那可能是我的地雷之一！好感度的下降可能是一个骤变的过程，就会感觉像是一瞬间激活了一些被隐藏的记忆和情绪，现在好点了\n平静不代表理性啦，可能只是一下子失去了表达或者争论的欲望啦，也算是某种回避？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 711,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 356
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T18:28:11.000Z",
+        "description": "我们被我们所塑造的东西塑造着。——狐狸小姐",
+        "id": "1791898542379782144",
+        "name": "某方的结语",
+        "pinned_tweet_id": "1966415821473042737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969456593596248064/wHfYrTj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 215,
+          "like_count": 1636,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 938
+        },
+        "username": "Margarette63331",
+        "verified": false
+      }
+    ]
+  }
+}

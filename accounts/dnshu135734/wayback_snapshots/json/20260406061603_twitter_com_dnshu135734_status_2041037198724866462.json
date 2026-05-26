@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041037190772465664"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "2041037198724866462",
+    "created_at": "2026-04-06T06:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041037198724866462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xiUOV7ZuSc",
+          "end": 121,
+          "expanded_url": "https://x.com/dnshu135734/status/2041037198724866462/photo/1",
+          "media_key": "3_2041037190772465664",
+          "start": 98,
+          "url": "https://t.co/xiUOV7ZuSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041037198724866462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃糖的理由：\n顺带一提，不厌恶性器官的原因很直白，因为那是为数不多能直接让我开心一点的方式了，能够好好开心一会，虽然很黏腻好脏……（我应该没有性瘾，轻度的也没有！）\n诶，我又在自言自语奇怪的东西 https://t.co/xiUOV7ZuSc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1869,
+        "media_key": "3_2041037190772465664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFM4gtlaoAAXwlk.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041037190772465664"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "2041037198724866462",
+        "created_at": "2026-04-06T06:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041037198724866462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xiUOV7ZuSc",
+              "end": 121,
+              "expanded_url": "https://x.com/dnshu135734/status/2041037198724866462/photo/1",
+              "media_key": "3_2041037190772465664",
+              "start": 98,
+              "url": "https://t.co/xiUOV7ZuSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041037198724866462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃糖的理由：\n顺带一提，不厌恶性器官的原因很直白，因为那是为数不多能直接让我开心一点的方式了，能够好好开心一会，虽然很黏腻好脏……（我应该没有性瘾，轻度的也没有！）\n诶，我又在自言自语奇怪的东西 https://t.co/xiUOV7ZuSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜下面是满满当当的简介\n最喜欢的人@Aureliax17QwQ ｜陆姐姐 @MeraK_Rinchi ｜不知道会不会同意我把她加到简介里的帆 @nanami_mua｜章鱼妈妈！@mihuanhuanhuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "MeraK_Rinchi"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nanami_mua"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "mihuanhuanhuan"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 4700,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1668
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1978725804843385287",
+    "created_at": "2025-10-16T19:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T20:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978908589101322642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1363658509619896321",
+          "start": 0,
+          "username": "NChcen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978908589101322642",
+    "in_reply_to_user_id": "1363658509619896321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978725804843385287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NChcen (._.)我恨我这双打字不过脑子的手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1978725804843385287",
+        "created_at": "2025-10-16T19:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T20:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978908589101322642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1363658509619896321",
+              "start": 0,
+              "username": "NChcen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978908589101322642",
+        "in_reply_to_user_id": "1363658509619896321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978725804843385287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NChcen (._.)我恨我这双打字不过脑子的手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363658509619896321",
+        "conversation_id": "1978725804843385287",
+        "created_at": "2025-10-16T07:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978725804843385287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978725804843385287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26435,
+          "like_count": 376,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "贝贝们，为了防止破窗效应，不要轻易把自己的伤痛告诉别人好不✊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T01:15:11.000Z",
+        "description": "你们想干的事我都不干别问了略略略",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nchcen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nchcen",
+                "start": 0,
+                "url": "https://t.co/xCCVUt7pJS"
+              }
+            ]
+          }
+        },
+        "id": "1363658509619896321",
+        "location": "🈚️🚪小孩子不懂事乱发的",
+        "name": "NoAndNo",
+        "pinned_tweet_id": "1972484309958418506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974809892654546945/Tja-g8SI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 89,
+          "like_count": 2184,
+          "listed_count": 9,
+          "media_count": 148,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/xCCVUt7pJS",
+        "username": "NChcen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1977427242440650834",
+    "created_at": "2026-01-14T01:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T02:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011243855505735689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1559244132257656832",
+          "start": 0,
+          "username": "AsdAsd265438_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011243855505735689",
+    "in_reply_to_user_id": "1559244132257656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977427242440650834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsdAsd265438_ 不想用轻微，适中这种没力气的词形容自己的痛苦吧。明明难受的时候负面情绪都快要溢出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1977427242440650834",
+        "created_at": "2026-01-14T01:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T02:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011243855505735689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1559244132257656832",
+              "start": 0,
+              "username": "AsdAsd265438_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011243855505735689",
+        "in_reply_to_user_id": "1559244132257656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977427242440650834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdAsd265438_ 不想用轻微，适中这种没力气的词形容自己的痛苦吧。明明难受的时候负面情绪都快要溢出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559244132257656832",
+        "conversation_id": "1977427242440650834",
+        "created_at": "2025-10-12T17:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977427242440650834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977427242440650834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪的，我们什么问题都没有，那为什么填量表的时候要填那么严重呢？感觉就是自己想多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 768
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T18:22:39.000Z",
+        "description": "我是谁？ | 喜欢@lyulka_in_true",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "lyulka_in_true"
+              }
+            ]
+          }
+        },
+        "id": "1559244132257656832",
+        "name": "仰望星空岁月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752340898669789184/z3-Yp4KJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1716,
+          "like_count": 14867,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1319
+        },
+        "username": "AsdAsd265438_",
+        "verified": false
+      }
+    ]
+  }
+}

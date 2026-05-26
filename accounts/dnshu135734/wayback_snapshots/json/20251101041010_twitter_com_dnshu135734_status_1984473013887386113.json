@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1960875550840701394",
+    "created_at": "2025-11-01T04:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984473013887386113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876888627323736064",
+          "start": 0,
+          "username": "AnonChishaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984473013887386113",
+    "in_reply_to_user_id": "1876888627323736064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984466343526350942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnonChishaya 原来如此呢……在喜欢中带有自己的目的，这样看来纯粹的喜欢真的是很少见的。毕竟光是交友就难以纯粹了，更何况喜欢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984466343526350942].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1984466343526350942",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1984466343526350942"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1960875550840701394",
+        "created_at": "2025-11-01T04:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984473013887386113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876888627323736064",
+              "start": 0,
+              "username": "AnonChishaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984473013887386113",
+        "in_reply_to_user_id": "1876888627323736064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984466343526350942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnonChishaya 原来如此呢……在喜欢中带有自己的目的，这样看来纯粹的喜欢真的是很少见的。毕竟光是交友就难以纯粹了，更何况喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 163
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T07:08:23.000Z",
+        "description": "",
+        "id": "1876888627323736064",
+        "name": "莜苜",
+        "pinned_tweet_id": "1961385630543266045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967491504735473664/4_WmAGvW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 32,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 175
+        },
+        "username": "AnonChishaya",
+        "verified": false
+      }
+    ]
+  }
+}

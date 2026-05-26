@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1979647556264276447",
+    "created_at": "2025-10-18T20:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T21:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979647556264276447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970047450493943810",
+          "start": 3,
+          "username": "chuyuanhui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979647556264276447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979557116362027309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuyuanhui: 以为对方不理你   是话变少了 然后从自己身上找原因    其实只是分享的人不是你了   少自作多情吧  又把自己当成什么很重要的人了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1979647556264276447",
+        "created_at": "2025-10-18T20:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T21:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979647556264276447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970047450493943810",
+              "start": 3,
+              "username": "chuyuanhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979647556264276447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979557116362027309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuyuanhui: 以为对方不理你   是话变少了 然后从自己身上找原因    其实只是分享的人不是你了   少自作多情吧  又把自己当成什么很重要的人了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970047450493943810",
+        "conversation_id": "1979557116362027309",
+        "created_at": "2025-10-18T14:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979557116362027309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979557116362027309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2604,
+          "like_count": 89,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "以为对方不理你   是话变少了 然后从自己身上找原因    其实只是分享的人不是你了   少自作多情吧  又把自己当成什么很重要的人了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T08:48:30.000Z",
+        "description": "泥嚎(^_^)可以叫我惠惠  欢迎找我玩  匿名箱https://t.co/IRUqu4oRr3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuanhui54217",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yuanhui54217",
+                "start": 25,
+                "url": "https://t.co/IRUqu4oRr3"
+              }
+            ]
+          }
+        },
+        "id": "1970047450493943810",
+        "location": "江苏",
+        "name": "鸢惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970052639644925952/WROkWbGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 4,
+          "like_count": 583,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 59
+        },
+        "username": "chuyuanhui",
+        "verified": false
+      }
+    ]
+  }
+}

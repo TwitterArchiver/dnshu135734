@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2042115453989089380",
+    "created_at": "2026-04-09T06:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042129999076151328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1713050867786526720",
+          "start": 0,
+          "username": "siuuuuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042129999076151328",
+    "in_reply_to_user_id": "1713050867786526720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042115453989089380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siuuuuneo 天才姐姐还好吗………\n生活还在以自己的方式等待着，不知道是好是坏呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2042115453989089380",
+        "created_at": "2026-04-09T06:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042129999076151328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1713050867786526720",
+              "start": 0,
+              "username": "siuuuuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042129999076151328",
+        "in_reply_to_user_id": "1713050867786526720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042115453989089380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siuuuuneo 天才姐姐还好吗………\n生活还在以自己的方式等待着，不知道是好是坏呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713050867786526720",
+        "conversation_id": "2042115453989089380",
+        "created_at": "2026-04-09T05:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042115453989089380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siuuuuneo/stat…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/siuuuuneo/status/2041951639641432238",
+              "start": 84,
+              "url": "https://t.co/ta8R388az6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042115453989089380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041951639641432238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是笨蛋，其实梦想是一觉不醒w\n在地铁站突然晕倒\n如果是自己的房间里呢...\n不喜欢死亡,但是抑郁让我去靠近死亡,反正人总有一天会死,像我就进了好几次ICU,说不定呢 https://t.co/ta8R388az6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜下面是满满当当的简介\n最喜欢的人@Aureliax17QwQ ｜陆姐姐 @MeraK_Rinchi ｜不知道会不会同意我把她加到简介里的帆 @nanami_mua｜章鱼妈妈！@mihuanhuanhuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "MeraK_Rinchi"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nanami_mua"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "mihuanhuanhuan"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 4910,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1711
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T04:35:39.000Z",
+        "description": "饿了可以吃小黄鱼w）一辈子的@6mhzph",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "6mhzph"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/siuuuuneo",
+                "end": 23,
+                "expanded_url": "http://t.me/siuuuuneo",
+                "start": 0,
+                "url": "https://t.co/iJ4mHEWlX9"
+              }
+            ]
+          }
+        },
+        "id": "1713050867786526720",
+        "location": "重庆",
+        "name": "小黄鱼a",
+        "pinned_tweet_id": "2031437440414789980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002637813850963968/jt2chCNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 1312,
+          "like_count": 10564,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 4085
+        },
+        "url": "https://t.co/iJ4mHEWlX9",
+        "username": "siuuuuneo",
+        "verified": false
+      }
+    ]
+  }
+}

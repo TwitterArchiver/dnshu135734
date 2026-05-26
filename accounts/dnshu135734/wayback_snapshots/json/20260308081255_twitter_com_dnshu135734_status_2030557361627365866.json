@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2030530614009700551",
+    "created_at": "2026-03-08T08:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030557361627365866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011873376445612032",
+          "start": 0,
+          "username": "MutsumiXiaomu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030557361627365866",
+    "in_reply_to_user_id": "2011873376445612032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030530614009700551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiXiaomu 红霉素容易吐，个人体感不太好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2030530612105506816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3k1WAa8AAGaWp.png",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2030530614009700551",
+        "created_at": "2026-03-08T08:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030557361627365866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "MutsumiXiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030557361627365866",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030530614009700551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiXiaomu 红霉素容易吐，个人体感不太好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030530612105506816"
+          ]
+        },
+        "author_id": "2011873376445612032",
+        "conversation_id": "2030530614009700551",
+        "created_at": "2026-03-08T06:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030530614009700551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nq5HtE1o7H",
+              "end": 169,
+              "expanded_url": "https://x.com/MutsumiXiaomu/status/2030530614009700551/photo/1",
+              "media_key": "3_2030530612105506816",
+              "start": 146,
+              "url": "https://t.co/Nq5HtE1o7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030530614009700551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 256,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【论红霉素可以取代西柚汁成为最新的CYP3A4酶抑制剂】\n下图为红霉素（蓝色曲线）和西柚汁（橙色曲线）的抑制效果随时间的曲线图。\n但要特别注意，此图仅为【归一图】，y轴峰值不代表抑制效果！！！在抑制效果的峰值上，红霉素强于西柚汁！\n需注意无论服用哪种来强化DXM或白兔bron都需要提前给药 https://t.co/Nq5HtE1o7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 3174,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1263
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "你好呀 这里小睦丨ODer丨支黑 精日丨为了压住BPD而猛嗑解离剂          永远的好朋友：@Natsumeann13          亲爱的OD导师：@tanka_TwT (永远喜欢镜音老师❤️，想要一直陪伴着她，想要和她一起离世)         ☆必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "tanka_TwT"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "name": "小支柱清除计划Ver2.0🇯🇵",
+        "pinned_tweet_id": "2015471136423948295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 816,
+          "like_count": 5328,
+          "listed_count": 21,
+          "media_count": 44,
+          "tweet_count": 1152
+        },
+        "username": "MutsumiXiaomu",
+        "verified": false
+      }
+    ]
+  }
+}

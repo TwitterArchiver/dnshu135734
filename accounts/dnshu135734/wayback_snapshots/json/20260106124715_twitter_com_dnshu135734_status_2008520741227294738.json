@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2008520741227294738",
+    "created_at": "2026-01-06T12:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008520741227294738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 68,
+          "id": "1808047925676986368",
+          "start": 55,
+          "username": "xxx_zzx71446"
+        },
+        {
+          "end": 82,
+          "id": "1643785305533874177",
+          "start": 69,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008520741227294738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上表主治，让医生准我出院的事，房里已经回消息了\n竟然不许！\n主治就是看我在院里日渐强盛！才故意驳回我的请求！@xxx_zzx71446 @MeraK_Rinchi 你们去，   提他人头来见！(#`皿´)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2008520741227294738",
+        "created_at": "2026-01-06T12:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008520741227294738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "1808047925676986368",
+              "start": 55,
+              "username": "xxx_zzx71446"
+            },
+            {
+              "end": 82,
+              "id": "1643785305533874177",
+              "start": 69,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008520741227294738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上表主治，让医生准我出院的事，房里已经回消息了\n竟然不许！\n主治就是看我在院里日渐强盛！才故意驳回我的请求！@xxx_zzx71446 @MeraK_Rinchi 你们去，   提他人头来见！(#`皿´)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 714
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "",
+        "id": "1808047925676986368",
+        "location": "距离10.3km",
+        "name": "流光诺梦",
+        "pinned_tweet_id": "2001970618745639117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981046735225913344/HPTthMmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 413,
+          "like_count": 10100,
+          "listed_count": 4,
+          "media_count": 1471,
+          "tweet_count": 12751
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "Karagawa Roku \\ 可以的话请叫我陆 \\ 旧名凛柒 \\ 03年 \\ 性别不详 \\ INFJ \\ 一只假扮天使的魅魔 \\ 笨蛋烂人 \\ 曾经的数学天才 \\ 成分复杂 \\ 手伤严重 \\ ADHD存疑 \\ 只要还活着信息就能秒回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karagawa_roku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/karagawa_roku",
+                "start": 0,
+                "url": "https://t.co/Xq8FZOjnzV"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川陸༻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000733118945484802/MU3D70kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 490,
+          "like_count": 5699,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/Xq8FZOjnzV",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

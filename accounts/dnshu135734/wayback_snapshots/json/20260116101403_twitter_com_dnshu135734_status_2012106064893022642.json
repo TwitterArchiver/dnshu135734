@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2012106064893022642",
+    "created_at": "2026-01-16T10:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T11:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012106064893022642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012106064893022642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好无聊好无聊好无聊好无聊好无聊好无聊好无聊为什么b站没有新的omori二创给我看（ŏ﹏ŏ、)\n好无聊好无聊好无聊为什么我玩音游这么菜(ŏ﹏ŏ、)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2012106064893022642",
+        "created_at": "2026-01-16T10:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012106064893022642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012106064893022642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊好无聊好无聊好无聊好无聊好无聊好无聊为什么b站没有新的omori二创给我看（ŏ﹏ŏ、)\n好无聊好无聊好无聊为什么我玩音游这么菜(ŏ﹏ŏ、)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 786
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2024568326157221888"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "2024568327298044017",
+    "created_at": "2026-02-19T19:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T20:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024568327298044017"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024568327298044017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "除了原本提过的以外，自杀对我来说还相当于逃避的方法\n因为如果不这样做我就会面对许多许多我无法解决的现实问题和痛苦\n还有一个小小的疑惑\n你和大部分家人关系大概怎么样…"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 7200,
+        "end_datetime": "2026-02-24T19:34:38.000Z",
+        "id": "2024568326157221888",
+        "options": [
+          {
+            "label": "非常优秀！全都是骨肉相连的亲人",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "关系不错或者中规中矩",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "关系比较冷漠，或者会很厌烦",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "仇视到想杀掉其中的某个甚至全部",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2024568326157221888"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "2024568327298044017",
+        "created_at": "2026-02-19T19:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T20:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024568327298044017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024568327298044017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了原本提过的以外，自杀对我来说还相当于逃避的方法\n因为如果不这样做我就会面对许多许多我无法解决的现实问题和痛苦\n还有一个小小的疑惑\n你和大部分家人关系大概怎么样…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2035,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1008
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

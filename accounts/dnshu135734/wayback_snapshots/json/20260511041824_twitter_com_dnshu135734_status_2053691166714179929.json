@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2053691166714179929",
+    "created_at": "2026-05-11T04:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053691166714179929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053691166714179929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水水会说：不要关注我喵\n我是17的喵\n\n我是章鱼 这个账号暂时由我接管了 我会做数据保存工作 请不要关注他 谢谢\n我之后会请人蒸馏他的全部聊天记录\n用于怀念他\n如果说谎言重复一百遍就是真相，我希望他永远是昨天刚刚离开的……\n\n等17来 我们一起去水族馆吧 亲爱的小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2053691166714179929",
+        "created_at": "2026-05-11T04:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053691166714179929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053691166714179929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水水会说：不要关注我喵\n我是17的喵\n\n我是章鱼 这个账号暂时由我接管了 我会做数据保存工作 请不要关注他 谢谢\n我之后会请人蒸馏他的全部聊天记录\n用于怀念他\n如果说谎言重复一百遍就是真相，我希望他永远是昨天刚刚离开的……\n\n等17来 我们一起去水族馆吧 亲爱的小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n超级可爱的恋人喵@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 5848,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 1947
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

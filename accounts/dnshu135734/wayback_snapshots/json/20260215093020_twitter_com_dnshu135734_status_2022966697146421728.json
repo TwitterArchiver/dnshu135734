@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2022965583361556912",
+    "created_at": "2026-02-15T09:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022966697146421728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        },
+        {
+          "end": 30,
+          "id": "1788485889225834496",
+          "start": 14,
+          "username": "YesterdayOrange"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Build the ultimate cat army through tactical breeding and send them into deep, challenging turn-based adventures. Draft abilities, collect items, and manipulate genetics across generations in this roguelike tactics game from the creators of The Binding of Isaac and The End is Nigh.",
+          "display_url": "store.steampowered.com/app/686060/_/",
+          "end": 67,
+          "expanded_url": "https://store.steampowered.com/app/686060/_/",
+          "images": [
+            {
+              "height": 353,
+              "url": "https://pbs.twimg.com/news_img/2022966697595179009/4fADyMv9?format=jpg&name=orig",
+              "width": 616
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2022966697595179009/4fADyMv9?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 44,
+          "status": 200,
+          "title": "Save 10% on Mewgenics on Steam",
+          "unwound_url": "https://store.steampowered.com/app/686060/_/",
+          "url": "https://t.co/CTE5gQ7mEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022966697146421728",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022966388768608657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi @YesterdayOrange 以撒制作组最新出的游戏\n\nhttps://t.co/CTE5gQ7mEV\n是很好的肉鸽！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2022965583361556912",
+        "created_at": "2026-02-15T09:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022966697146421728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            },
+            {
+              "end": 30,
+              "id": "1788485889225834496",
+              "start": 14,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Build the ultimate cat army through tactical breeding and send them into deep, challenging turn-based adventures. Draft abilities, collect items, and manipulate genetics across generations in this roguelike tactics game from the creators of The Binding of Isaac and The End is Nigh.",
+              "display_url": "store.steampowered.com/app/686060/_/",
+              "end": 67,
+              "expanded_url": "https://store.steampowered.com/app/686060/_/",
+              "images": [
+                {
+                  "height": 353,
+                  "url": "https://pbs.twimg.com/news_img/2022966697595179009/4fADyMv9?format=jpg&name=orig",
+                  "width": 616
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022966697595179009/4fADyMv9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "Save 10% on Mewgenics on Steam",
+              "unwound_url": "https://store.steampowered.com/app/686060/_/",
+              "url": "https://t.co/CTE5gQ7mEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022966697146421728",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022966388768608657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi @YesterdayOrange 以撒制作组最新出的游戏\n\nhttps://t.co/CTE5gQ7mEV\n是很好的肉鸽！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2022965583361556912",
+        "created_at": "2026-02-15T09:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022966388768608657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022966388768608657",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022965583361556912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 诶那是什么）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 970
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "Karagawa Roku \\ 旧名凛柒 \\ INFJ-T/OH \\ 假扮天使ing \\ 曾经的数学天才 \\ 音游+RTS+F/TPS玩家 \\ 手伤严重 \\ ADHD存疑 \\ 信息秒回——「望む結末へと伸ばした両手」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnchiie_roku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnchiie_roku",
+                "start": 0,
+                "url": "https://t.co/xerBWOl3hM"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川陸༻",
+        "pinned_tweet_id": "2022340038605074450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019570567280750593/rSOmWrJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 434,
+          "like_count": 9766,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/xerBWOl3hM",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2022703073089720430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10510,
+          "following_count": 4075,
+          "like_count": 76336,
+          "listed_count": 17,
+          "media_count": 1780,
+          "tweet_count": 17260
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

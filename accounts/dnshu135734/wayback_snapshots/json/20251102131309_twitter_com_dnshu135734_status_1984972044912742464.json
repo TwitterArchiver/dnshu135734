@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1977940264980480226",
+    "created_at": "2025-11-02T13:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T14:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984972044912742464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893026488662007810",
+          "start": 0,
+          "username": "youmu0187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984972044912742464",
+    "in_reply_to_user_id": "1893026488662007810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977940264980480226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmu0187 还有很多话题不适合直接谈论于是就会通过隔空传话的方式来发推表达（好普遍的情况）如果是这种情况的原因大体分为“直接当面臭骂一顿总归是不文雅的”和“直接说我喜欢你就没意思了”这两种情况\n莫名想到arg解密，推特在这方面似乎有很明显的社交工具属性呢，\n不过需要间接传话的人可以找我，500一次（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1977940264980480226",
+        "created_at": "2025-11-02T13:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984972044912742464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984972044912742464",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977940264980480226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmu0187 还有很多话题不适合直接谈论于是就会通过隔空传话的方式来发推表达（好普遍的情况）如果是这种情况的原因大体分为“直接当面臭骂一顿总归是不文雅的”和“直接说我喜欢你就没意思了”这两种情况\n莫名想到arg解密，推特在这方面似乎有很明显的社交工具属性呢，\n不过需要间接传话的人可以找我，500一次（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "1977940264980480226",
+        "created_at": "2025-10-14T03:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977940264980480226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiuSuK7777/sta…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/LiuSuK7777/status/1977680064784506989",
+              "start": 126,
+              "url": "https://t.co/zCFGZo8Xtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977940264980480226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 536,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977680064784506989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也是我经常会观察的点：对方在想到一个可以聊的话题时，更倾向于发推，还是更倾向于和我聊？就我目前所看到的而言一般取决于两点，一个是关系程度，一个是本身对推特账号的运营。\n对我来说的话，我倾向于把更具思考性质的碎碎念发推，把更偏日常生活的想法和人分享。 https://t.co/zCFGZo8Xtv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 187
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "不定期存放点随笔，偶尔去发现些有趣事情，需回fo可私信或留言。小号：@AnonChishaya 目前主要用于存放些个人记录，仅对熟人开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "AnonChishaya"
+              }
+            ]
+          }
+        },
+        "id": "1893026488662007810",
+        "name": "幽沐",
+        "pinned_tweet_id": "1960750862470668747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965804929576214528/qK5YFJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 314,
+          "like_count": 7126,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 4358
+        },
+        "username": "youmu0187",
+        "verified": false
+      }
+    ]
+  }
+}

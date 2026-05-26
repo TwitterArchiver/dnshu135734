@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1984972309535592657",
+    "created_at": "2025-11-02T16:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T17:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985016699620601955"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985016699620601955",
+    "in_reply_to_user_id": "1972363680198361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985013284626637022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在此之上或者除此之外，控制自己的言行也是非常困难的呢。失言，唐突和无效对话，话题也有好坏，但是我每次什么都想说。如果被讨厌了只会找理由解释或者祈求原谅，但是讨厌是不需要理由的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1984972309535592657",
+        "created_at": "2025-11-02T16:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985016699620601955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985016699620601955",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985013284626637022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在此之上或者除此之外，控制自己的言行也是非常困难的呢。失言，唐突和无效对话，话题也有好坏，但是我每次什么都想说。如果被讨厌了只会找理由解释或者祈求原谅，但是讨厌是不需要理由的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1984972309535592657",
+        "created_at": "2025-11-02T15:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985013284626637022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985013284626637022",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984972309535592657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "占有欲是会无止境增长的东西呢。所以我要通过某些行为界限身份界限来限制自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 191
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

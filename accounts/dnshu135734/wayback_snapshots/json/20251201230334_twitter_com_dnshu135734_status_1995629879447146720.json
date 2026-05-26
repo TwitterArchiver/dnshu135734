@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995629873675780096"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "1995629879447146720",
+    "created_at": "2025-12-01T23:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T00:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995629879447146720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XuSrrWWlOx",
+          "end": 65,
+          "expanded_url": "https://x.com/dnshu135734/status/1995629879447146720/photo/1",
+          "media_key": "3_1995629873675780096",
+          "start": 42,
+          "url": "https://t.co/XuSrrWWlOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995629879447146720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自杀的药物准备好了，之前怎么没想到呢，明明最近的自杀指南就在这里\n极夜是很好的歌哦 https://t.co/XuSrrWWlOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_1995629873675780096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Hmy_uaQAAXK_3.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995629873675780096"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "1995629879447146720",
+        "created_at": "2025-12-01T23:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T00:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995629879447146720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XuSrrWWlOx",
+              "end": 65,
+              "expanded_url": "https://x.com/dnshu135734/status/1995629879447146720/photo/1",
+              "media_key": "3_1995629873675780096",
+              "start": 42,
+              "url": "https://t.co/XuSrrWWlOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995629879447146720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀的药物准备好了，之前怎么没想到呢，明明最近的自杀指南就在这里\n极夜是很好的歌哦 https://t.co/XuSrrWWlOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 395
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

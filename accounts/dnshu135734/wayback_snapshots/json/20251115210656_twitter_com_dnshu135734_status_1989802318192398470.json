@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1989798574549590421",
+    "created_at": "2025-11-15T21:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T22:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989802318192398470"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989802318192398470",
+    "in_reply_to_user_id": "1972363680198361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989799953368232041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别人冷漠或许是被伤害了，或许是自己的温暖被浪费掉，被抛弃了。于是只想照顾好自己周围的世界，将温暖放在屋内。\n但我冷漠又有什么苦衷？只在乎自己不在乎别人的地雷阵，就连这里也是。温暖留在屋内准备烧炭自杀吗，但我确实很没有力气了。所以是自作自受呢，不是很坏但绝对不好很恶心的人……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1989798574549590421",
+        "created_at": "2025-11-15T21:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989802318192398470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989802318192398470",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989799953368232041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别人冷漠或许是被伤害了，或许是自己的温暖被浪费掉，被抛弃了。于是只想照顾好自己周围的世界，将温暖放在屋内。\n但我冷漠又有什么苦衷？只在乎自己不在乎别人的地雷阵，就连这里也是。温暖留在屋内准备烧炭自杀吗，但我确实很没有力气了。所以是自作自受呢，不是很坏但绝对不好很恶心的人……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1989798574549590421",
+        "created_at": "2025-11-15T20:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T21:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989799953368232041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989799953368232041",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989798574549590421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前觉得在问题的评论区只有清一色的安慰是很无效的，但我现在也只能说这样了，至少比起冷漠的言语温暖的安慰还是更好一些？\n不知道为什么我大部分的评论几乎都是自我的投射了，要么反思要么经历，要么直接把一段过去的分析给照猫画虎。动不动就很沉重，自言自语的话是不尊重的呢，我讨厌自说自话的我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 340
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

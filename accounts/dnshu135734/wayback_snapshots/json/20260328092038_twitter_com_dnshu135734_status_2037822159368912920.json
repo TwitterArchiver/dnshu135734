@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037822150900658176"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "2037822159368912920",
+    "created_at": "2026-03-28T09:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037822159368912920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BcLKzMBPnM",
+          "end": 33,
+          "expanded_url": "https://x.com/dnshu135734/status/2037822159368912920/photo/1",
+          "media_key": "3_2037822150900658176",
+          "start": 10,
+          "url": "https://t.co/BcLKzMBPnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037822159368912920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "互动圈\n好简单呢w https://t.co/BcLKzMBPnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037822150900658176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfMcwvbMAAenWr.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037822150900658176"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "2037822159368912920",
+        "created_at": "2026-03-28T09:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037822159368912920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcLKzMBPnM",
+              "end": 33,
+              "expanded_url": "https://x.com/dnshu135734/status/2037822159368912920/photo/1",
+              "media_key": "3_2037822150900658176",
+              "start": 10,
+              "url": "https://t.co/BcLKzMBPnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037822159368912920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互动圈\n好简单呢w https://t.co/BcLKzMBPnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 3965,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1540
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

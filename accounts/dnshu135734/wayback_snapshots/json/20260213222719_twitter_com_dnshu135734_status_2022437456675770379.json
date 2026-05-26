@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2022437456675770379",
+    "created_at": "2026-02-13T22:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T23:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022437456675770379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dnshu135734/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/dnshu135734/status/2022436074388394211",
+          "start": 40,
+          "url": "https://t.co/Jf7RRSRY0E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022437456675770379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022436074388394211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "aaaaaaa17我错了补药电我啊啊啊啊啊啊啊啊啊啊啊我的腿已经不是我自己的了 https://t.co/Jf7RRSRY0E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2022437456675770379",
+        "created_at": "2026-02-13T22:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T23:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022437456675770379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dnshu135734/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/dnshu135734/status/2022436074388394211",
+              "start": 40,
+              "url": "https://t.co/Jf7RRSRY0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022437456675770379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022436074388394211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "aaaaaaa17我错了补药电我啊啊啊啊啊啊啊啊啊啊啊我的腿已经不是我自己的了 https://t.co/Jf7RRSRY0E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2022436074388394211",
+        "created_at": "2026-02-13T22:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T23:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022436074388394211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022436074388394211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当0就是好！\n只在床上舒服的躺着就可以看着对象急头白脸的调试郊狼。\n张开双腿对方的嘴就开始含起来。\n跪着撅起屁股就可以不断爽到。\n就连早安和晚安都泡在精液里面\n而0只需要叫一叫扭一扭\n真方便呢↖(^ω^)↗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 965
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2032752237949366286",
+    "created_at": "2026-03-14T11:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T12:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032783823428276361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032783823428276361",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032752237949366286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 有的抗抑郁药短时间内反而会增加冲动行为的概率（提升行动力的说法是一方面吧，但是不少带镇静效果的抗抑郁药也会增加自杀想法。只能说生意人体奇怪的反馈调节？反正临床确实是这样的）\n长期吃就好了，只是暂时副作用，暂时还没见过因为这种出事的\n对我来说吃舍曲林长胖的副作用更可怕（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032752217946730497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXJX0saMAE-6L1.jpg",
+        "width": 1721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2032752237949366286",
+        "created_at": "2026-03-14T11:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032783823428276361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032783823428276361",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032752237949366286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 有的抗抑郁药短时间内反而会增加冲动行为的概率（提升行动力的说法是一方面吧，但是不少带镇静效果的抗抑郁药也会增加自杀想法。只能说生意人体奇怪的反馈调节？反正临床确实是这样的）\n长期吃就好了，只是暂时副作用，暂时还没见过因为这种出事的\n对我来说吃舍曲林长胖的副作用更可怕（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032752217946730497"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2032752237949366286",
+        "created_at": "2026-03-14T09:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032752237949366286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8a9EZRyLHX",
+              "end": 93,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2032752237949366286/photo/1",
+              "media_key": "3_2032752217946730497",
+              "start": 70,
+              "url": "https://t.co/8a9EZRyLHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032752237949366286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1078,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抗抑郁药物增加了儿童、青少年和青年的自杀的想法和实施自杀的行为。\n\n啥意思 抗抑郁药治疗的方法就是把人弄死吗？这样人死了就不会有抑郁症了？ https://t.co/8a9EZRyLHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1379
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我这一生都存进这小小的屏幕里\n当我离去了\n至少这里曾有我活过的痕迹",
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2027442466060931175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027067181448798208/Fcxrrme-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 316,
+          "like_count": 5233,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 683
+        },
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

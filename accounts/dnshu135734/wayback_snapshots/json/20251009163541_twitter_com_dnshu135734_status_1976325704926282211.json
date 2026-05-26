@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1976211546356515244",
+    "created_at": "2025-10-09T16:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T17:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976325704926282211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971531713588412416",
+          "start": 0,
+          "username": "114514ntr"
+        },
+        {
+          "end": 23,
+          "id": "1182989706948165632",
+          "start": 11,
+          "username": "dustthepoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976325704926282211",
+    "in_reply_to_user_id": "1971531713588412416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976300873291792484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514ntr @dustthepoet od本身就是现实所迫的行为，不是因为发生了某些难受到极点的事情很少有人会无缘无故的去o吧（当然也有的，但大部分人都是带着某些创伤）换句话说，od对于大部分od者来说就是自杀的代替品，不o就会自杀，那是o还是自杀？当然确实有不少选自杀的，但是都看不到了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1976211546356515244",
+        "created_at": "2025-10-09T16:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976325704926282211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971531713588412416",
+              "start": 0,
+              "username": "114514ntr"
+            },
+            {
+              "end": 23,
+              "id": "1182989706948165632",
+              "start": 11,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976325704926282211",
+        "in_reply_to_user_id": "1971531713588412416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976300873291792484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514ntr @dustthepoet od本身就是现实所迫的行为，不是因为发生了某些难受到极点的事情很少有人会无缘无故的去o吧（当然也有的，但大部分人都是带着某些创伤）换句话说，od对于大部分od者来说就是自杀的代替品，不o就会自杀，那是o还是自杀？当然确实有不少选自杀的，但是都看不到了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971531713588412416",
+        "conversation_id": "1976211546356515244",
+        "created_at": "2025-10-09T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976300873291792484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182989706948165632",
+              "start": 0,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976300873291792484",
+        "in_reply_to_user_id": "1182989706948165632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976211546356515244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustthepoet 不知道为什么一直给我推这个群体的帖子。😵我是医疗行业的，虽然不是搞这方面的，有困难可以咨询我，不要死在莫名其妙的地方了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T11:06:24.000Z",
+        "description": "",
+        "id": "1971531713588412416",
+        "name": "羁鸟恋旧林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971532300505759744/zZ4Gk0Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 141
+        },
+        "username": "114514ntr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T12:01:46.000Z",
+        "description": "您的互联网好邻居｜高强度网络冲浪｜快来找我交朋友我想要互fo｜05｜INTP｜EMOKIDS｜ENG CN｜不见证｜女朋友:@evelyn_notfound",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "evelyn_notfound"
+              }
+            ]
+          }
+        },
+        "id": "1182989706948165632",
+        "location": "Your heart",
+        "name": "你有在药效中吗",
+        "pinned_tweet_id": "1911666309072408929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953726430401232896/8UV6C1xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 344,
+          "like_count": 5692,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1577
+        },
+        "username": "dustthepoet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1981699937877500297",
+    "created_at": "2025-11-15T21:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T22:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989805771073483025"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989805771073483025",
+    "in_reply_to_user_id": "1972363680198361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981699937877500297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己说话很恶心这一点深刻的认识到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1981699937877500297",
+        "created_at": "2025-11-15T21:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989805771073483025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989805771073483025",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981699937877500297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己说话很恶心这一点深刻的认识到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1981699937877500297",
+        "created_at": "2025-10-24T12:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981699937877500297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981699937877500297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经浑身插满回旋镖了（）自己得出的结论每回都恰好应用在自己身上，自己做过的事无一例外的都在各方面攻击我。\n你讨厌我吗？太好了，我也讨厌，很志同道合呢↖(^ω^)↗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 341
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047240712056651776"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "2047240720491429890",
+    "created_at": "2026-04-23T09:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047240720491429890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/isrQJRbmVl",
+          "end": 29,
+          "expanded_url": "https://x.com/dnshu135734/status/2047240720491429890/photo/1",
+          "media_key": "3_2047240712056651776",
+          "start": 6,
+          "url": "https://t.co/isrQJRbmVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047240720491429890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水水是混蛋 https://t.co/isrQJRbmVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047240712056651776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlClLPawAAA8-M.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047240712056651776"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "2047240720491429890",
+        "created_at": "2026-04-23T09:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047240720491429890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/isrQJRbmVl",
+              "end": 29,
+              "expanded_url": "https://x.com/dnshu135734/status/2047240720491429890/photo/1",
+              "media_key": "3_2047240712056651776",
+              "start": 6,
+              "url": "https://t.co/isrQJRbmVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047240720491429890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水水是混蛋 https://t.co/isrQJRbmVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n最喜欢的人@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 5390,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1846
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

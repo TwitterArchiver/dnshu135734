@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976001725975953408",
+        "3_1976001725980082180"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491901038063878146",
+          "name": "Metroidvanias"
+        }
+      }
+    ],
+    "conversation_id": "1976001734188130353",
+    "created_at": "2025-10-08T19:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T20:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976001734188130353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 140,
+          "start": 131,
+          "tag": "silksong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UnG7a883Z2",
+          "end": 164,
+          "expanded_url": "https://x.com/dnshu135734/status/1976001734188130353/photo/1",
+          "media_key": "3_1976001725975953408",
+          "start": 141,
+          "url": "https://t.co/UnG7a883Z2"
+        },
+        {
+          "display_url": "pic.x.com/UnG7a883Z2",
+          "end": 164,
+          "expanded_url": "https://x.com/dnshu135734/status/1976001734188130353/photo/1",
+          "media_key": "3_1976001725980082180",
+          "start": 141,
+          "url": "https://t.co/UnG7a883Z2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976001734188130353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圣堡迷路好久才知道去雪山。回来之后从低语书库不小心掉到了一个沼泽，浑身是蛆。于是探了一会图，捡到了一个婴儿，一打开地图键就会叫，好烦，在右上角连战卡关了四小时，结果发现还有boss要打。回去探图打算再打，做了个任务，婴儿没了，我被四锁了，回不了血，全部串起来了 #silksong https://t.co/UnG7a883Z2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_1976001725975953408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wrGbhbAAAu3bR.jpg",
+        "width": 1205
+      },
+      {
+        "height": 478,
+        "media_key": "3_1976001725980082180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wrGbiaAAQd_nt.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976001725975953408",
+            "3_1976001725980082180"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491901038063878146",
+              "name": "Metroidvanias"
+            }
+          }
+        ],
+        "conversation_id": "1976001734188130353",
+        "created_at": "2025-10-08T19:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976001734188130353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 131,
+              "tag": "silksong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnG7a883Z2",
+              "end": 164,
+              "expanded_url": "https://x.com/dnshu135734/status/1976001734188130353/photo/1",
+              "media_key": "3_1976001725975953408",
+              "start": 141,
+              "url": "https://t.co/UnG7a883Z2"
+            },
+            {
+              "display_url": "pic.x.com/UnG7a883Z2",
+              "end": 164,
+              "expanded_url": "https://x.com/dnshu135734/status/1976001734188130353/photo/1",
+              "media_key": "3_1976001725980082180",
+              "start": 141,
+              "url": "https://t.co/UnG7a883Z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976001734188130353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣堡迷路好久才知道去雪山。回来之后从低语书库不小心掉到了一个沼泽，浑身是蛆。于是探了一会图，捡到了一个婴儿，一打开地图键就会叫，好烦，在右上角连战卡关了四小时，结果发现还有boss要打。回去探图打算再打，做了个任务，婴儿没了，我被四锁了，回不了血，全部串起来了 #silksong https://t.co/UnG7a883Z2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

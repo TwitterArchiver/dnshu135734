@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2001820635262312929",
+    "created_at": "2025-12-19T01:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T02:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001821063756525929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001821063756525929",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001820635262312929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 潮汕……一瞬间想吃牛肉丸了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001820627444047872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8flQSraIAAtsgx.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001820627486019585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8flQS1akAEOGkA.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001820627871948800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8flQURbYAA08zz.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001820627477630976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8flQSzakAAsseV.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2001820635262312929",
+        "created_at": "2025-12-19T01:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001821063756525929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001821063756525929",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001820635262312929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 潮汕……一瞬间想吃牛肉丸了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001820627444047872",
+            "3_2001820627486019585",
+            "3_2001820627871948800",
+            "3_2001820627477630976"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "conversation_id": "2001820635262312929",
+        "created_at": "2025-12-19T01:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001820635262312929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7w38OD76dW",
+              "end": 66,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2001820635262312929/photo/1",
+              "media_key": "3_2001820627444047872",
+              "start": 43,
+              "url": "https://t.co/7w38OD76dW"
+            },
+            {
+              "display_url": "pic.x.com/7w38OD76dW",
+              "end": 66,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2001820635262312929/photo/1",
+              "media_key": "3_2001820627486019585",
+              "start": 43,
+              "url": "https://t.co/7w38OD76dW"
+            },
+            {
+              "display_url": "pic.x.com/7w38OD76dW",
+              "end": 66,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2001820635262312929/photo/1",
+              "media_key": "3_2001820627871948800",
+              "start": 43,
+              "url": "https://t.co/7w38OD76dW"
+            },
+            {
+              "display_url": "pic.x.com/7w38OD76dW",
+              "end": 66,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2001820635262312929/photo/1",
+              "media_key": "3_2001820627477630976",
+              "start": 43,
+              "url": "https://t.co/7w38OD76dW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001820635262312929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘了NGL呢（）\n1.谢谢你！你也可爱喵喵喵\n2.😡\n3.会吧。。。\n4.潮汕的（） https://t.co/7w38OD76dW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 461
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVopG5"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000220473616138240/a4ab0Rnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1886,
+          "like_count": 16815,
+          "listed_count": 8,
+          "media_count": 511,
+          "tweet_count": 16170
+        },
+        "url": "https://t.co/37m0RVopG5",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

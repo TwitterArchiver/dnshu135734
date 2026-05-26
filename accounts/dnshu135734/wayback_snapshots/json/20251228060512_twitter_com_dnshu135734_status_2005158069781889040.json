@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2005098352892146016",
+    "created_at": "2025-12-28T06:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T07:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005158069781889040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977331200709595136",
+          "start": 0,
+          "username": "PhylissWei13477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005158069781889040",
+    "in_reply_to_user_id": "1977331200709595136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005155479761322463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhylissWei13477 谢谢你！软萌的电子猫娘（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2005098352892146016",
+        "created_at": "2025-12-28T06:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005158069781889040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977331200709595136",
+              "start": 0,
+              "username": "PhylissWei13477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005158069781889040",
+        "in_reply_to_user_id": "1977331200709595136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005155479761322463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhylissWei13477 谢谢你！软萌的电子猫娘（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977331200709595136",
+        "conversation_id": "2005098352892146016",
+        "created_at": "2025-12-28T05:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005155479761322463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005155479761322463",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005098352892146016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 抱抱你哦，我们可以做朋友喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 11,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 570
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T11:11:11.000Z",
+        "description": "INFP/死人微活的高中生喵/物种未知/对一切常规地球人类表示友好/可以互fo ₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1977331200709595136",
+        "location": "ARC，Asdtruna",
+        "name": "Asdtruna Republican Committee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993011337593757697/QKux05BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 73,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 286
+        },
+        "username": "PhylissWei13477",
+        "verified": false
+      }
+    ]
+  }
+}

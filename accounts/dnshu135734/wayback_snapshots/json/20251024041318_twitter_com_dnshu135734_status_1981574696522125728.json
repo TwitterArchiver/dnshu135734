@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1981574696522125728",
+    "created_at": "2025-10-24T04:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T05:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981574696522125728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981574696522125728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“不离开不自由，离开了又无法单独存在”偶然想到的情况\n对别人的困境随意的提出建议和观点真的是很坏的行为，因为处在困境中的人只会觉得:“你又懂我什么”但廉价的安慰反反复复的说就连我自己也觉得没有价值了……\n难道最好的结果是闭嘴？\n好讨厌反复想起什么也改变不了的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1981574696522125728",
+        "created_at": "2025-10-24T04:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981574696522125728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981574696522125728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“不离开不自由，离开了又无法单独存在”偶然想到的情况\n对别人的困境随意的提出建议和观点真的是很坏的行为，因为处在困境中的人只会觉得:“你又懂我什么”但廉价的安慰反反复复的说就连我自己也觉得没有价值了……\n难道最好的结果是闭嘴？\n好讨厌反复想起什么也改变不了的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

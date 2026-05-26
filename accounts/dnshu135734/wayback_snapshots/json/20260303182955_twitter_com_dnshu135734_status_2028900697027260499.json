@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2028849541378969964",
+    "created_at": "2026-03-03T18:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028900697027260499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022556004089753600",
+          "start": 0,
+          "username": "jiechengmadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028900697027260499",
+    "in_reply_to_user_id": "1972363680198361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028899732450603325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiechengmadoka 唉…但是还是不希望再死人了。就算是这种法律犬奴，死起来也是蛮可怜的…\n同类互害。www看看能做到什么程度呢，明明大家过得已经够艰难了却还是有神人跳出来害人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2028849541378969964",
+        "created_at": "2026-03-03T18:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028900697027260499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022556004089753600",
+              "start": 0,
+              "username": "jiechengmadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028900697027260499",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028899732450603325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiechengmadoka 唉…但是还是不希望再死人了。就算是这种法律犬奴，死起来也是蛮可怜的…\n同类互害。www看看能做到什么程度呢，明明大家过得已经够艰难了却还是有神人跳出来害人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2028849541378969964",
+        "created_at": "2026-03-03T18:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028899732450603325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022556004089753600",
+              "start": 0,
+              "username": "jiechengmadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028899732450603325",
+        "in_reply_to_user_id": "2022556004089753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028849541378969964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiechengmadoka 我看以后迟早会有《鹿目圆环都做了哪些坏事》\n抓药圈友商，洪水泛滥。骗人钱不还，卷钱跑路。害药娘炸柜，自由落体。出轨了对象，朝秦暮楚。\n卷钱跑路，友商互害，举报正常hrt的无辜同类，出轨。\n看到你接下来要做的事情感受不到你的可怜，简直就是跨圈孙笑川在地上摔了一跤于是要去炸icu。(#^.^#)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 2826,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1200
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T06:18:29.000Z",
+        "description": "糖和糖商，粉白蓝与梦想大家好我是小圆环/2009.09.26/小证日期25.9.16/一年xyn兼紫砂干预志愿者/n55唐毓文冰棍爱爱酱推荐的糖商(下略)，清蒸协会荣誉获奖者/心理疏导需求的可以私我的说/tg:yuukihanashiya, qq3518541175加不上时:2398521880",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySky_Snow…",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySky_Snowfield",
+                "start": 0,
+                "url": "https://t.co/4oTEnQ18V1"
+              }
+            ]
+          }
+        },
+        "id": "2022556004089753600",
+        "location": "药娘之城",
+        "name": "鹿目圆环（糖商/全球直发）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022556799510147072/mplNMfTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 97,
+          "like_count": 96,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/4oTEnQ18V1",
+        "username": "jiechengmadoka",
+        "verified": false
+      }
+    ]
+  }
+}

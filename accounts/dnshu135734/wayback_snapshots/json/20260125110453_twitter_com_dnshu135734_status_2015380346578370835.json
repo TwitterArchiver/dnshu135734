@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2015380346578370835",
+    "created_at": "2026-01-25T11:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015380346578370835"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015380346578370835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "0.6g氟康唑+40t愈美+10tpr+5t替扎尼定+5t安非他酮+5t美金刚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2015380346578370835",
+        "created_at": "2026-01-25T11:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015380346578370835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015380346578370835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0.6g氟康唑+40t愈美+10tpr+5t替扎尼定+5t安非他酮+5t美金刚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 845
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

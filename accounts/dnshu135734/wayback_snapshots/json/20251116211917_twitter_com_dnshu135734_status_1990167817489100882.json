@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1989663276687618471",
+    "created_at": "2025-11-16T21:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T22:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990167817489100882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1745442734771740672",
+          "start": 0,
+          "username": "nan12485"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990167817489100882",
+    "in_reply_to_user_id": "1745442734771740672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990161069311217812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nan12485 毒理学的低毒不代表不能吃死人（我要讲一个一周上百克克石硫磺几周吃死自己的笑话了，这个东西恐怕划分起来也就微毒）\n实际上就算是低毒几十克急性中毒也能轻易吃死自己。苯只不过是其中常见易服用的一种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1989663276687618471",
+        "created_at": "2025-11-16T21:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T22:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990167817489100882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1745442734771740672",
+              "start": 0,
+              "username": "nan12485"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990167817489100882",
+        "in_reply_to_user_id": "1745442734771740672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990161069311217812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nan12485 毒理学的低毒不代表不能吃死人（我要讲一个一周上百克克石硫磺几周吃死自己的笑话了，这个东西恐怕划分起来也就微毒）\n实际上就算是低毒几十克急性中毒也能轻易吃死自己。苯只不过是其中常见易服用的一种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745442734771740672",
+        "conversation_id": "1989663276687618471",
+        "created_at": "2025-11-16T20:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T21:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990161069311217812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990161069311217812",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989663276687618471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 苯不是低毒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 349
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T13:49:20.000Z",
+        "description": "",
+        "id": "1745442734771740672",
+        "name": "54.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829492909240180736/phC5nT4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 24,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 124
+        },
+        "username": "nan12485",
+        "verified": false
+      }
+    ]
+  }
+}

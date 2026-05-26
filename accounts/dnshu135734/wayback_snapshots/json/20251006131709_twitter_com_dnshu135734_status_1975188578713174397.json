@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1975187490576433507",
+    "created_at": "2025-10-06T13:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975188578713174397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975188578713174397",
+    "in_reply_to_user_id": "1972363680198361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975187889626792433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物过量后的晕车简直生不如死呢，为什么会这样，我恨特斯拉。明明只有一小时的车程还是高速。但感觉头快要炸了，感觉脑子里面胃里面要比外面高几个大气压，不停的恶心和晕。为什么会晕车啊，可以这辈子不出门吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1975187490576433507",
+        "created_at": "2025-10-06T13:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975188578713174397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975188578713174397",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975187889626792433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物过量后的晕车简直生不如死呢，为什么会这样，我恨特斯拉。明明只有一小时的车程还是高速。但感觉头快要炸了，感觉脑子里面胃里面要比外面高几个大气压，不停的恶心和晕。为什么会晕车啊，可以这辈子不出门吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1975187490576433507",
+        "created_at": "2025-10-06T13:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975187889626792433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975187889626792433",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975187490576433507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老实说我现在对吃药od也有点兴趣缺缺了……没什么动力呢，不想去医院。晕车好烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

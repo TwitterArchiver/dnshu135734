@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1976110421859070382",
+    "created_at": "2025-10-09T02:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T03:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976111492459315380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889713171684007936",
+          "start": 0,
+          "username": "XI2VANAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976111492459315380",
+    "in_reply_to_user_id": "1889713171684007936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976110421859070382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XI2VANAS 也是挣上钱了，推特的一小步，营业的一大步！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1976110419086540800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yN9M6aAAAtGGS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1976110421859070382",
+        "created_at": "2025-10-09T02:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T03:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976111492459315380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889713171684007936",
+              "start": 0,
+              "username": "XI2VANAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976111492459315380",
+        "in_reply_to_user_id": "1889713171684007936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976110421859070382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XI2VANAS 也是挣上钱了，推特的一小步，营业的一大步！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976110419086540800"
+          ]
+        },
+        "author_id": "1889713171684007936",
+        "conversation_id": "1976110421859070382",
+        "created_at": "2025-10-09T02:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T03:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976110421859070382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbpXs0zJw7",
+              "end": 115,
+              "expanded_url": "https://x.com/XI2VANAS/status/1976110421859070382/photo/1",
+              "media_key": "3_1976110419086540800",
+              "start": 92,
+              "url": "https://t.co/xbpXs0zJw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976110421859070382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我投降了我超级粘人也超级喜欢你你不理我我就没有办法好好做事忘记说晚安我就睡不着偶尔故意冷淡是想看你的反应我也不喜欢别人我只对你这样但我忍不住了今天是肯德基疯狂星期四可以请我吃嘛 https://t.co/xbpXs0zJw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T16:28:33.000Z",
+        "description": "04/顺女/泛性恋/infp/双相/ADHD/ed/友跨/switch/brat目前是家里蹲死宅...总之就是成分很复杂一个人",
+        "id": "1889713171684007936",
+        "location": "拉克里莫波利斯Lacrimopolis",
+        "name": "三千宫沢月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889714739208658946/zPZqS2Y__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 86,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "XI2VANAS",
+        "verified": false
+      }
+    ]
+  }
+}

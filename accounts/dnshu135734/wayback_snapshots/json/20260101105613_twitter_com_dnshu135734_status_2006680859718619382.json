@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2006679136274886813",
+    "created_at": "2026-01-01T10:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T11:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006680859718619382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898370048542359552",
+          "start": 0,
+          "username": "hahayaaai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006680859718619382",
+    "in_reply_to_user_id": "1898370048542359552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006679136274886813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahayaaai 有因为讨厌的人成了圈子的明星导致完全放弃任何有关内容，哪怕是自己喜欢的情况嘛\n记得之前就因为和别人关系破裂了，导致一玩那个人喜欢的游戏就会不由自主想到讨厌的事情，于是再也不玩了（明明是很喜欢的游戏，明明玩了1500h的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2006679136274886813",
+        "created_at": "2026-01-01T10:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006680859718619382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898370048542359552",
+              "start": 0,
+              "username": "hahayaaai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006680859718619382",
+        "in_reply_to_user_id": "1898370048542359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006679136274886813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahayaaai 有因为讨厌的人成了圈子的明星导致完全放弃任何有关内容，哪怕是自己喜欢的情况嘛\n记得之前就因为和别人关系破裂了，导致一玩那个人喜欢的游戏就会不由自主想到讨厌的事情，于是再也不玩了（明明是很喜欢的游戏，明明玩了1500h的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898370048542359552",
+        "conversation_id": "2006679136274886813",
+        "created_at": "2026-01-01T10:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006679136274886813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hahayaaai/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hahayaaai/status/2004978050220560862",
+              "start": 27,
+              "url": "https://t.co/T8r5PaRV3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006679136274886813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004978050220560862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "迄今为止有些想入的坑都因为有很讨厌的人在搞所以不敢入 https://t.co/T8r5PaRV3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 11,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 623
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T13:48:00.000Z",
+        "description": "碎碎念频道|各种发泄|负能量偏多|感到不安所以经常删帖 没有任何恶意",
+        "id": "1898370048542359552",
+        "name": "咪咪虾条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934692496736653312/ZtXTc4ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 106,
+          "like_count": 2888,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 291
+        },
+        "username": "hahayaaai",
+        "verified": false
+      }
+    ]
+  }
+}

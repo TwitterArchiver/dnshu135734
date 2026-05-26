@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1982536432628674629",
+    "created_at": "2025-10-28T03:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T04:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983006560998789164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897250027334242304",
+          "start": 0,
+          "username": "nana0000go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983006560998789164",
+    "in_reply_to_user_id": "1897250027334242304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982536432628674629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nana0000go 要看一开始处于什么位置了……如果是在最难受的之后遇到对方的话，就算对方离开了，也只不过是回到了最难受的时候，但却有了很美好的经历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1982536432628674629",
+        "created_at": "2025-10-28T03:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983006560998789164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897250027334242304",
+              "start": 0,
+              "username": "nana0000go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983006560998789164",
+        "in_reply_to_user_id": "1897250027334242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982536432628674629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nana0000go 要看一开始处于什么位置了……如果是在最难受的之后遇到对方的话，就算对方离开了，也只不过是回到了最难受的时候，但却有了很美好的经历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897250027334242304",
+        "conversation_id": "1982536432628674629",
+        "created_at": "2025-10-26T19:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T20:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982536432628674629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982536432628674629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 82088,
+          "like_count": 717,
+          "quote_count": 19,
+          "reply_count": 130,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "短暂的陪伴到底是惩罚还是奖励"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 100
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T11:37:33.000Z",
+        "description": "努力变成一个萌萌小女孩中🫧/想发啥发啥我一直发我发个不停我不停的发我停不下来的发我两眼一睁就是发/置顶关评推广自辨",
+        "id": "1897250027334242304",
+        "location": "🚪",
+        "name": "我有话要说",
+        "pinned_tweet_id": "1982805802667626744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982753181713981440/Ewpswnhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3182,
+          "following_count": 217,
+          "like_count": 3609,
+          "listed_count": 9,
+          "media_count": 453,
+          "tweet_count": 4279
+        },
+        "username": "nana0000go",
+        "verified": false
+      }
+    ]
+  }
+}

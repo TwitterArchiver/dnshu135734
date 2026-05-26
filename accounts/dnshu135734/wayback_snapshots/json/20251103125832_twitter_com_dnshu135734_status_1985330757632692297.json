@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "ONE (漫画家)",
+          "id": "1088552774478909440",
+          "name": "ONE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "ONE (漫画家)",
+          "id": "1088552774478909440",
+          "name": "ONE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1307033574760001536",
+          "name": "Famous mangaka"
+        }
+      }
+    ],
+    "conversation_id": "1985272214443430262",
+    "created_at": "2025-11-03T12:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T13:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985330757632692297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "733948741917409285",
+          "start": 0,
+          "username": "stfizer"
+        },
+        {
+          "end": 22,
+          "id": "173049825",
+          "start": 9,
+          "username": "ONE_rakugaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985330757632692297",
+    "in_reply_to_user_id": "733948741917409285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985328980082475119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stfizer @ONE_rakugaki 这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "ONE (漫画家)",
+              "id": "1088552774478909440",
+              "name": "ONE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "ONE (漫画家)",
+              "id": "1088552774478909440",
+              "name": "ONE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307033574760001536",
+              "name": "Famous mangaka"
+            }
+          }
+        ],
+        "conversation_id": "1985272214443430262",
+        "created_at": "2025-11-03T12:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985330757632692297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "733948741917409285",
+              "start": 0,
+              "username": "stfizer"
+            },
+            {
+              "end": 22,
+              "id": "173049825",
+              "start": 9,
+              "username": "ONE_rakugaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985330757632692297",
+        "in_reply_to_user_id": "733948741917409285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985328980082475119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stfizer @ONE_rakugaki 这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733948741917409285",
+        "conversation_id": "1985272214443430262",
+        "created_at": "2025-11-03T12:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985328980082475119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985328980082475119",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985272214443430262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 one老师博客是哪个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 208
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-21T09:13:11.000Z",
+        "description": "太空 技術和科學 知名遊戲玩家 科學 科技新聞 科技界具影響力人士 足球 遊戲 遊戲 遊戲新聞 電子競技 音樂 體育 政治 商業與金融 天氣",
+        "id": "733948741917409285",
+        "location": "Yokohama City Kohoku Ward",
+        "name": "stfizer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1026029005890306048/NQyRHiYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 200,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 565
+        },
+        "username": "stfizer",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-31T08:17:10.000Z",
+        "description": "漫画『ワンパンマン』『モブサイコ100』『バーサス』『バグエゴ』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "galaxyheavyblow.web.fc2.com",
+                "end": 23,
+                "expanded_url": "http://galaxyheavyblow.web.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/8LT7ana6Yk"
+              }
+            ]
+          }
+        },
+        "id": "173049825",
+        "name": "ＯＮＥ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712873131/____normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843475,
+          "following_count": 468,
+          "like_count": 2127,
+          "listed_count": 3406,
+          "media_count": 341,
+          "tweet_count": 9013
+        },
+        "url": "https://t.co/8LT7ana6Yk",
+        "username": "ONE_rakugaki",
+        "verified": true
+      }
+    ]
+  }
+}

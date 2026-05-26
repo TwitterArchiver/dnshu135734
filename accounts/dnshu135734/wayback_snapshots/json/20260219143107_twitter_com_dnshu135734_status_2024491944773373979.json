@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2024491944773373979",
+    "created_at": "2026-02-19T14:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024491944773373979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dnshu135734/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/dnshu135734/status/2001696660532138148",
+          "start": 21,
+          "url": "https://t.co/Qpg6HUydNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024491944773373979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001696660532138148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很相似呢，不同的是亚硝酸钠和氮气都没有了 https://t.co/Qpg6HUydNt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2024491944773373979",
+        "created_at": "2026-02-19T14:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024491944773373979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dnshu135734/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/dnshu135734/status/2001696660532138148",
+              "start": 21,
+              "url": "https://t.co/Qpg6HUydNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024491944773373979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001696660532138148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很相似呢，不同的是亚硝酸钠和氮气都没有了 https://t.co/Qpg6HUydNt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2001696660532138148",
+        "created_at": "2025-12-18T16:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001696660532138148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001696660532138148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠到了，不过我打算用氮气自杀所以似乎还要等待一两天\n注销了又恢复了。果然我还是不希望账号完全消失掉。虽然马上看不到就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1000
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

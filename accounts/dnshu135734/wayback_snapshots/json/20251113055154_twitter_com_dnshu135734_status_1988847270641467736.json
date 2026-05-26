@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1988308926186901636",
+    "created_at": "2025-11-13T05:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T06:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988847270641467736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1053832620834844674",
+          "start": 0,
+          "username": "riyao23197447"
+        },
+        {
+          "end": 25,
+          "id": "1893026488662007810",
+          "start": 15,
+          "username": "youmu0187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988847270641467736",
+    "in_reply_to_user_id": "1053832620834844674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988696347676143759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riyao23197447 @youmu0187 这段话不太对，至少最后一句是错的！你才不是最自私的也不是最丑恶的，你可没有我丑恶，也没有我自私，那么至少不是“最”了。而且你的道德感很高呢……\n讨厌自己是因为自己是最了解自己的人，所以会有很多地方无法接受。最讨厌只不过是因为你还不认识/不够了解像我这种极度自私极度丑恶的人而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1988308926186901636",
+        "created_at": "2025-11-13T05:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988847270641467736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1053832620834844674",
+              "start": 0,
+              "username": "riyao23197447"
+            },
+            {
+              "end": 25,
+              "id": "1893026488662007810",
+              "start": 15,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988847270641467736",
+        "in_reply_to_user_id": "1053832620834844674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988696347676143759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riyao23197447 @youmu0187 这段话不太对，至少最后一句是错的！你才不是最自私的也不是最丑恶的，你可没有我丑恶，也没有我自私，那么至少不是“最”了。而且你的道德感很高呢……\n讨厌自己是因为自己是最了解自己的人，所以会有很多地方无法接受。最讨厌只不过是因为你还不认识/不够了解像我这种极度自私极度丑恶的人而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1053832620834844674",
+        "conversation_id": "1988308926186901636",
+        "created_at": "2025-11-12T19:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988696347676143759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988696347676143759",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988409985009934650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmu0187 好🥺谢谢你，我会试着放过一点自己的。现在想来，我对自己有着莫名其妙的高道德感，却没有与之付出的任何行动，实在是懒惰切愚蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 307
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-21T02:17:30.000Z",
+        "description": "千藏万躲，最后躲掉的都是真实的自己与人相处的幸运。",
+        "id": "1053832620834844674",
+        "name": "看到我请叫我去学习",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987250620668256258/3NZQpieJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 3351,
+          "like_count": 12948,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 7901
+        },
+        "username": "riyao23197447",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "不定期存放点随笔，偶尔去发现些有趣事情，需回fo可私信或留言。小号：@AnonChishaya 目前主要用于存放些个人记录，仅对熟人开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "AnonChishaya"
+              }
+            ]
+          }
+        },
+        "id": "1893026488662007810",
+        "name": "幽沐",
+        "pinned_tweet_id": "1960750862470668747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965804929576214528/qK5YFJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 313,
+          "like_count": 7249,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 4476
+        },
+        "username": "youmu0187",
+        "verified": false
+      }
+    ]
+  }
+}

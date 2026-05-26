@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025049917052620800"
+      ],
+      "media_source_tweet_id": [
+        "2025049941614457265"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "2025334277454602311",
+    "created_at": "2026-02-21T22:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T23:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025334277454602311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906683410594381824",
+          "start": 3,
+          "username": "wngkn194344"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRzjAeQwRJ",
+          "end": 54,
+          "expanded_url": "https://x.com/wngkn194344/status/2025049941614457265/photo/1",
+          "media_key": "3_2025049917052620800",
+          "start": 31,
+          "url": "https://t.co/xRzjAeQwRJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025334277454602311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025049941614457265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wngkn194344: 来自热带的它们第一次看到雪 https://t.co/xRzjAeQwRJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2025049917052620800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpsK55bEAAfwXx.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025049917052620800"
+          ],
+          "media_source_tweet_id": [
+            "2025049941614457265"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "2025334277454602311",
+        "created_at": "2026-02-21T22:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T23:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025334277454602311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906683410594381824",
+              "start": 3,
+              "username": "wngkn194344"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRzjAeQwRJ",
+              "end": 54,
+              "expanded_url": "https://x.com/wngkn194344/status/2025049941614457265/photo/1",
+              "media_key": "3_2025049917052620800",
+              "start": 31,
+              "url": "https://t.co/xRzjAeQwRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025334277454602311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025049941614457265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wngkn194344: 来自热带的它们第一次看到雪 https://t.co/xRzjAeQwRJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025049917052620800"
+          ]
+        },
+        "author_id": "1906683410594381824",
+        "conversation_id": "2025049941614457265",
+        "created_at": "2026-02-21T03:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025049941614457265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRzjAeQwRJ",
+              "end": 37,
+              "expanded_url": "https://x.com/wngkn194344/status/2025049941614457265/photo/1",
+              "media_key": "3_2025049917052620800",
+              "start": 14,
+              "url": "https://t.co/xRzjAeQwRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025049941614457265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 10965,
+          "like_count": 746,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "来自热带的它们第一次看到雪 https://t.co/xRzjAeQwRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1046
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T12:22:54.000Z",
+        "description": "冰糖雪梨有点甜！",
+        "id": "1906683410594381824",
+        "name": "冰糖雪梨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916040261484089346/Hfv62UfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6359,
+          "following_count": 2804,
+          "like_count": 2129,
+          "listed_count": 17,
+          "media_count": 405,
+          "tweet_count": 472
+        },
+        "username": "wngkn194344",
+        "verified": true
+      }
+    ]
+  }
+}

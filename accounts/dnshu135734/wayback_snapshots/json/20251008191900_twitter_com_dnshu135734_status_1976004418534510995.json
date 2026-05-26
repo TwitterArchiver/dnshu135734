@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1976004418534510995",
+    "created_at": "2025-10-08T19:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T20:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976004418534510995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maybeanormalpp…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/maybeanormalppl/status/1976000697780023326",
+          "start": 47,
+          "url": "https://t.co/RfcOWlkKVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976004418534510995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976000697780023326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己想死的时候总是希望有人可以推我一把，但愿意推我的却是我所讨厌的，喜欢我的在被我不断的折磨 https://t.co/RfcOWlkKVV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1976004418534510995",
+        "created_at": "2025-10-08T19:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976004418534510995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maybeanormalpp…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/maybeanormalppl/status/1976000697780023326",
+              "start": 47,
+              "url": "https://t.co/RfcOWlkKVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976004418534510995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976000697780023326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己想死的时候总是希望有人可以推我一把，但愿意推我的却是我所讨厌的，喜欢我的在被我不断的折磨 https://t.co/RfcOWlkKVV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "1976000697780023326",
+        "created_at": "2025-10-08T19:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976000697780023326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976000697780023326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的生活是大循环套小循环 痛苦到最后又给我一点活着的希望。\n为什么没有一次直接能杀死我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "顺直男，休学啃老",
+        "id": "1596798310785978369",
+        "name": "一只只只只人",
+        "pinned_tweet_id": "1969968711852564947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 705,
+          "like_count": 15831,
+          "listed_count": 8,
+          "media_count": 893,
+          "tweet_count": 19469
+        },
+        "username": "maybeanormalppl",
+        "verified": false
+      }
+    ]
+  }
+}

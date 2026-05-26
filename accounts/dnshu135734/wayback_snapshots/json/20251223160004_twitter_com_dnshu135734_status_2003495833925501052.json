@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1996946389331231147",
+    "created_at": "2025-12-23T16:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T17:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003495833925501052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1662361091039698944",
+          "start": 0,
+          "username": "5cger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003495833925501052",
+    "in_reply_to_user_id": "1662361091039698944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996946389331231147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5cger 虽然但是……………生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996946382872367105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7aUJ6qb0AEJjsv.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1996946389331231147",
+        "created_at": "2025-12-23T16:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003495833925501052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1662361091039698944",
+              "start": 0,
+              "username": "5cger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003495833925501052",
+        "in_reply_to_user_id": "1662361091039698944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996946389331231147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5cger 虽然但是……………生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996946382872367105"
+          ]
+        },
+        "author_id": "1662361091039698944",
+        "conversation_id": "1996946389331231147",
+        "created_at": "2025-12-05T14:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996946389331231147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRys4EdtBg",
+              "end": 59,
+              "expanded_url": "https://x.com/5cger/status/1996946389331231147/photo/1",
+              "media_key": "3_1996946382872367105",
+              "start": 36,
+              "url": "https://t.co/KRys4EdtBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996946389331231147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥现在瑞芯微的板子都这么贵啊，只是想把用了几年的 4b 换了...😢 https://t.co/KRys4EdtBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 480
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T07:32:44.000Z",
+        "description": "2008/12/24，炫压抑指数 98\n\n整点好活！",
+        "id": "1662361091039698944",
+        "name": "啊啊啊啊啊啊啊啊啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905956559366344705/zyViL3io_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "5cger",
+        "verified": false
+      }
+    ]
+  }
+}

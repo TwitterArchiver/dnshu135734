@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2008490821751107710",
+    "created_at": "2026-01-07T00:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T01:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008700307279421883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446662638704861184",
+          "start": 0,
+          "username": "Ibk_fuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008700307279421883",
+    "in_reply_to_user_id": "1446662638704861184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008549406367494492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ibk_fuko 是的已经打了无数次了，好在狗一般都是200血几下就踢死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2008490821751107710",
+        "created_at": "2026-01-07T00:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008700307279421883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446662638704861184",
+              "start": 0,
+              "username": "Ibk_fuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008700307279421883",
+        "in_reply_to_user_id": "1446662638704861184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008549406367494492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ibk_fuko 是的已经打了无数次了，好在狗一般都是200血几下就踢死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446662638704861184",
+        "conversation_id": "2008490821751107710",
+        "created_at": "2026-01-06T14:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008549406367494492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008549406367494492",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008491830929948841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 只是被叼走而已 没关OO还会和野狗作战（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 718
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T02:24:00.000Z",
+        "description": "貧乳はヅテータスダ、希少価値だ!\n(日常only)(私信只回同好喵)",
+        "id": "1446662638704861184",
+        "name": "Fuko酱",
+        "pinned_tweet_id": "1936226053024104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963271216699158528/0RwDPsHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 163,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "username": "Ibk_fuko",
+        "verified": false
+      }
+    ]
+  }
+}

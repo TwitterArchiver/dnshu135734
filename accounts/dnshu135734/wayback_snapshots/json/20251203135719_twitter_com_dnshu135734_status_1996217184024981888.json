@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1995920476057862426",
+    "created_at": "2025-12-03T13:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996217184024981888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996217184024981888",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995920476057862426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 想要自杀可以试试金刚烷胺联用普瑞巴林，20t以上就有概率致死的。愈美片对生命没有威胁还会犯恶心很难受……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995920460148776960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LvFWsaIAAYT0_.jpg",
+        "width": 930
+      },
+      {
+        "height": 1296,
+        "media_key": "3_1995920460203413504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LvFW5b0AAfOq-.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1995920476057862426",
+        "created_at": "2025-12-03T13:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996217184024981888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996217184024981888",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995920476057862426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 想要自杀可以试试金刚烷胺联用普瑞巴林，20t以上就有概率致死的。愈美片对生命没有威胁还会犯恶心很难受……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995920460148776960",
+            "3_1995920460203413504"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "1995920476057862426",
+        "created_at": "2025-12-02T18:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T19:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995920476057862426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hMlFfD1n1",
+              "end": 86,
+              "expanded_url": "https://x.com/Swathy17531761/status/1995920476057862426/photo/1",
+              "media_key": "3_1995920460148776960",
+              "start": 63,
+              "url": "https://t.co/6hMlFfD1n1"
+            },
+            {
+              "display_url": "pic.x.com/6hMlFfD1n1",
+              "end": 86,
+              "expanded_url": "https://x.com/Swathy17531761/status/1995920476057862426/photo/1",
+              "media_key": "3_1995920460203413504",
+              "start": 63,
+              "url": "https://t.co/6hMlFfD1n1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995920476057862426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2603,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的身体好像感觉坏掉了呢。\n天天头晕乏力身体痛心烦意燥。\n无精打采的。脸上黯淡无光像一个病人一样了。这个月差不多就消失了吧我 https://t.co/6hMlFfD1n1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 406
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是紫汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重135唉😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，重度社恐，梦想是成为可爱的女孩子~药娘无证含糖断续3年。没(⊙o⊙)啥会的。对象@MaoZhua520,\n\n🚪48好友位V/Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "MaoZhua520"
+              }
+            ]
+          }
+        },
+        "id": "1314388633869152259",
+        "name": "紫汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1992242368830140537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 61,
+          "like_count": 7,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 181
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

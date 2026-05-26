@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1987572154498732097",
+    "created_at": "2025-11-16T00:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T01:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989856797692506347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1760935245812244480",
+          "start": 0,
+          "username": "survive_tolove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989856797692506347",
+    "in_reply_to_user_id": "1760935245812244480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987572154498732097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@survive_tolove 绽放印记吞精灵药暴毙就像吃饭吃出虫子一样是一生一次的体验呢，为什么虫子会被塞到我的饭里……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1987572154498732097",
+        "created_at": "2025-11-16T00:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T01:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989856797692506347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1760935245812244480",
+              "start": 0,
+              "username": "survive_tolove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989856797692506347",
+        "in_reply_to_user_id": "1760935245812244480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987572154498732097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@survive_tolove 绽放印记吞精灵药暴毙就像吃饭吃出虫子一样是一生一次的体验呢，为什么虫子会被塞到我的饭里……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760935245812244480",
+        "conversation_id": "1987572154498732097",
+        "created_at": "2025-11-09T17:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T18:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987572154498732097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/survive_tolove…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/survive_tolove/status/1987151025376313468",
+              "start": 82,
+              "url": "https://t.co/kT010soe67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987572154498732097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987151025376313468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "17小时，打到最终章boss前一关惜败😭\n不要买那个 升级所有牌，但是不能恢复生命的道具。纯陷阱。我不知道这道具对那个复活药水也有效。最后烧血拿牌，直接暴毙了😡😭 https://t.co/kT010soe67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 342
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T07:51:05.000Z",
+        "description": "指派男 疑似有spd/记忆光速遗忘",
+        "id": "1760935245812244480",
+        "name": "我忘了",
+        "pinned_tweet_id": "1905651295484289303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761317969320173568/uBZXh_ST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 179,
+          "like_count": 18688,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1598
+        },
+        "username": "survive_tolove",
+        "verified": false
+      }
+    ]
+  }
+}

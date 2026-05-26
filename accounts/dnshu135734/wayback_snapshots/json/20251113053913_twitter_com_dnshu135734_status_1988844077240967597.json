@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1988844077240967597",
+    "created_at": "2025-11-13T05:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T06:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988844077240967597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988844077240967597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以我到底是回避型还是依恋型呢……\n想要被喜欢，想要依赖别人。但却真当别人选择爱我的时候，自己却觉得不应该拥有以至于一点小问题都无法忍受。无法喜欢上自己也无法喜欢上完整的别人，但立体的人都是不完美的\n或许我只是带有强迫倾向的，现在很缺爱很缺爱的谁也不喜欢的人\n我应该向以前的朋友道歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1988844077240967597",
+        "created_at": "2025-11-13T05:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988844077240967597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988844077240967597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以我到底是回避型还是依恋型呢……\n想要被喜欢，想要依赖别人。但却真当别人选择爱我的时候，自己却觉得不应该拥有以至于一点小问题都无法忍受。无法喜欢上自己也无法喜欢上完整的别人，但立体的人都是不完美的\n或许我只是带有强迫倾向的，现在很缺爱很缺爱的谁也不喜欢的人\n我应该向以前的朋友道歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 305
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

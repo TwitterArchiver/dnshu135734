@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2025966804536070488",
+    "created_at": "2026-02-23T16:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025966804536070488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dnshu135734/st…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/dnshu135734/status/2025966060055548319",
+          "start": 121,
+          "url": "https://t.co/HaIkq64deY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025966804536070488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025966060055548319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "劝人自杀又是另一个事，墙外什么时候那么多道德警察了。大部分人来墙外不就是希望有言论自由，能看到墙内不能看的东西，分享墙内不能分享的事情吗。\n你反对自杀但有人确实想自杀，不能因为你理解不了于是用一堆道德的高帽去堵别人嘴（你说我反人类我也认了） https://t.co/HaIkq64deY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2025966804536070488",
+        "created_at": "2026-02-23T16:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025966804536070488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dnshu135734/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/dnshu135734/status/2025966060055548319",
+              "start": 121,
+              "url": "https://t.co/HaIkq64deY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025966804536070488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025966060055548319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "劝人自杀又是另一个事，墙外什么时候那么多道德警察了。大部分人来墙外不就是希望有言论自由，能看到墙内不能看的东西，分享墙内不能分享的事情吗。\n你反对自杀但有人确实想自杀，不能因为你理解不了于是用一堆道德的高帽去堵别人嘴（你说我反人类我也认了） https://t.co/HaIkq64deY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2025966060055548319",
+        "created_at": "2026-02-23T16:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025966060055548319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2025782001429799146",
+              "start": 144,
+              "url": "https://t.co/cKuZo4PZf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025966060055548319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025782001429799146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不觉得跨圈有什么问题。\n说白了还是那一套：“你们圈子有一个神人=大家都有问题”的地图炮。那群神人还不是正常跨在骂，跨圈圈地自萌惹谁了引来这么多道德警察。\n逻辑无非就是“中推上都是神人，中推该清理了，但别误会我还是友正常人的”这种莫名其妙的\n跨性别弱势就弱势在给了喜欢开地图炮的人一个靶子 https://t.co/cKuZo4PZf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1077
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

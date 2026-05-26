@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2032808087715983469",
+    "created_at": "2026-03-14T13:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032808087715983469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032808087715983469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道我从什么时候起开始养成了频繁洗手的习惯。手摸到我以为不干净的东西时就会一直感觉手有奇怪的触感。比如一个矿泉水瓶或者药盒，塑料袋？然后去洗水，直到下一次不小心摸到，可以在一小会跑去洗三四次手\n我觉得电脑键盘实际上并不比这些干净，但却没有这种触感\n有段时间门把手也是，会用纸包住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2032808087715983469",
+        "created_at": "2026-03-14T13:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032808087715983469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032808087715983469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道我从什么时候起开始养成了频繁洗手的习惯。手摸到我以为不干净的东西时就会一直感觉手有奇怪的触感。比如一个矿泉水瓶或者药盒，塑料袋？然后去洗水，直到下一次不小心摸到，可以在一小会跑去洗三四次手\n我觉得电脑键盘实际上并不比这些干净，但却没有这种触感\n有段时间门把手也是，会用纸包住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 3491,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1385
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

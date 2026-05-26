@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2007306800476164509",
+    "created_at": "2026-01-04T04:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007668034220269737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007286706685521925",
+          "start": 0,
+          "username": "ZhangJin1767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007668034220269737",
+    "in_reply_to_user_id": "2007286706685521925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007667149838704980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhangJin1767 和分区有关吧？r18类型的应该有很多很多非人知性体。如果是正常刷刷游戏二创或者小众推友的话。底下也很少有非人知性体\n（但为什么现在好多人底下全都是男大dd来这种，越来越多了……）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2007306800476164509",
+        "created_at": "2026-01-04T04:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007668034220269737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007286706685521925",
+              "start": 0,
+              "username": "ZhangJin1767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007668034220269737",
+        "in_reply_to_user_id": "2007286706685521925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007667149838704980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhangJin1767 和分区有关吧？r18类型的应该有很多很多非人知性体。如果是正常刷刷游戏二创或者小众推友的话。底下也很少有非人知性体\n（但为什么现在好多人底下全都是男大dd来这种，越来越多了……）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007286706685521925",
+        "conversation_id": "2007306800476164509",
+        "created_at": "2026-01-04T04:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007667149838704980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007667149838704980",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007306800476164509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 我感觉没多少真人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 667
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T03:04:11.000Z",
+        "description": "不要给我发色情内容以外的信息",
+        "id": "2007286706685521925",
+        "location": "China",
+        "name": "脐橙要用水煎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007307243482390529/zdhutGWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "ZhangJin1767",
+        "verified": false
+      }
+    ]
+  }
+}

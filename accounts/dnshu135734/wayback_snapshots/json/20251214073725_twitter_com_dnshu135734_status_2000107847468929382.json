@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2000107847468929382",
+    "created_at": "2025-12-14T07:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T08:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000107847468929382"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000107847468929382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "满口大道理的人真的和孔子一样……明明说的都是正确的，应该的行为\n但我做不到呢\n讨厌主观的肆意评价，为什么是没用的行为呢，做不到就是做不到，强求一个脑子坏掉的精神病去改变自己追求你心中的完美形象吗。丝毫不理解别人的情绪\n没力气的人已经无法跑下去了，做不到的人应该怎么办呢\n去死吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2000107847468929382",
+        "created_at": "2025-12-14T07:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T08:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000107847468929382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000107847468929382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "满口大道理的人真的和孔子一样……明明说的都是正确的，应该的行为\n但我做不到呢\n讨厌主观的肆意评价，为什么是没用的行为呢，做不到就是做不到，强求一个脑子坏掉的精神病去改变自己追求你心中的完美形象吗。丝毫不理解别人的情绪\n没力气的人已经无法跑下去了，做不到的人应该怎么办呢\n去死吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 454
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984542272021807108"
+      ],
+      "media_source_tweet_id": [
+        "1984542274844574051"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "1984573655528194549",
+    "created_at": "2025-11-01T10:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T11:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984573655528194549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838030304227028992",
+          "start": 3,
+          "username": "1967SavingUs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dQMRxhyiWZ",
+          "end": 64,
+          "expanded_url": "https://x.com/1967SavingUs/status/1984542274844574051/photo/1",
+          "media_key": "3_1984542272021807108",
+          "start": 41,
+          "url": "https://t.co/dQMRxhyiWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984573655528194549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984542274844574051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1967SavingUs: 感觉我是完全不会主动还喜欢乱想的人。。。。。 https://t.co/dQMRxhyiWZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984542272021807108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qCro2bQAQ3itu.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984542272021807108"
+          ],
+          "media_source_tweet_id": [
+            "1984542274844574051"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "1984573655528194549",
+        "created_at": "2025-11-01T10:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984573655528194549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838030304227028992",
+              "start": 3,
+              "username": "1967SavingUs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQMRxhyiWZ",
+              "end": 64,
+              "expanded_url": "https://x.com/1967SavingUs/status/1984542274844574051/photo/1",
+              "media_key": "3_1984542272021807108",
+              "start": 41,
+              "url": "https://t.co/dQMRxhyiWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984573655528194549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984542274844574051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1967SavingUs: 感觉我是完全不会主动还喜欢乱想的人。。。。。 https://t.co/dQMRxhyiWZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984542272021807108"
+          ]
+        },
+        "author_id": "1838030304227028992",
+        "conversation_id": "1984542274844574051",
+        "created_at": "2025-11-01T08:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984542274844574051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQMRxhyiWZ",
+              "end": 46,
+              "expanded_url": "https://x.com/1967SavingUs/status/1984542274844574051/photo/1",
+              "media_key": "3_1984542272021807108",
+              "start": 23,
+              "url": "https://t.co/dQMRxhyiWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984542274844574051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我是完全不会主动还喜欢乱想的人。。。。。 https://t.co/dQMRxhyiWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 169
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T01:39:26.000Z",
+        "description": "我是玉，很高兴认识你哦。",
+        "id": "1838030304227028992",
+        "location": "玉的小屋",
+        "name": "澄玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928553363572142082/AMIjNu3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 314,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 1014
+        },
+        "username": "1967SavingUs",
+        "verified": false
+      }
+    ]
+  }
+}

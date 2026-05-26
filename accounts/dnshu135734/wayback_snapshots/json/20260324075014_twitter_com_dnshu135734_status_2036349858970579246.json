@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2036349858970579246",
+    "created_at": "2026-03-24T07:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036349858970579246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036349858970579246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1g喹硫平，16t普瑞，30t晚安，10t硝苯地平\n我不知道我要做什么，我要好好的，休息一下\n家里还有盐，但是有一点醒来再看吧\n这个剂量不会出问题\n晚安的意思是晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2036349858970579246",
+        "created_at": "2026-03-24T07:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036349858970579246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036349858970579246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1g喹硫平，16t普瑞，30t晚安，10t硝苯地平\n我不知道我要做什么，我要好好的，休息一下\n家里还有盐，但是有一点醒来再看吧\n这个剂量不会出问题\n晚安的意思是晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 3873,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1526
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

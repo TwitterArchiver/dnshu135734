@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1792151136683868245",
+    "created_at": "2025-10-20T18:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T19:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980344847186952648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759434575527501824",
+          "start": 0,
+          "username": "fe150BuxSK9974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980344847186952648",
+    "in_reply_to_user_id": "1759434575527501824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792180618098561333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fe150BuxSK9974 hhh，好奇怪的对话(￣▽￣)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1792151136683868245",
+        "created_at": "2025-10-20T18:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T19:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980344847186952648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759434575527501824",
+              "start": 0,
+              "username": "fe150BuxSK9974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980344847186952648",
+        "in_reply_to_user_id": "1759434575527501824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792180618098561333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fe150BuxSK9974 hhh，好奇怪的对话(￣▽￣)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759434575527501824",
+        "conversation_id": "1792151136683868245",
+        "created_at": "2024-05-19T13:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T14:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792180618098561333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674177930128420864",
+              "start": 0,
+              "username": "bad_appleo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792180618098561333",
+        "in_reply_to_user_id": "1674177930128420864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792180047325073470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bad_appleo 我以为这样说会有更多共同语言呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 76
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T04:28:18.000Z",
+        "description": "",
+        "id": "1759434575527501824",
+        "name": "漩涡面码",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792152723703611392/8OJMfNGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "fe150BuxSK9974",
+        "verified": false
+      }
+    ]
+  }
+}

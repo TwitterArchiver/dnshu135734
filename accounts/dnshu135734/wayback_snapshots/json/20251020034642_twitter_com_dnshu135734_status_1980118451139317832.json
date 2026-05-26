@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980118443362832384"
+      ]
+    },
+    "author_id": "1972363680198361088",
+    "conversation_id": "1980118451139317832",
+    "created_at": "2025-10-20T03:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T04:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980118451139317832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zkbj2d1gVX",
+          "end": 95,
+          "expanded_url": "https://x.com/dnshu135734/status/1980118451139317832/photo/1",
+          "media_key": "3_1980118443362832384",
+          "start": 72,
+          "url": "https://t.co/Zkbj2d1gVX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980118451139317832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好奇怪，为什么手上指头上总是会莫名其妙出现比较小的划伤呢\n难道是睡着后会有野生的地雷系小精灵来割我的手，但是因为太小所以往往会把手指当成手臂？ https://t.co/Zkbj2d1gVX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1980118443362832384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rLO63XUAAUl55.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980118443362832384"
+          ]
+        },
+        "author_id": "1972363680198361088",
+        "conversation_id": "1980118451139317832",
+        "created_at": "2025-10-20T03:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980118451139317832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zkbj2d1gVX",
+              "end": 95,
+              "expanded_url": "https://x.com/dnshu135734/status/1980118451139317832/photo/1",
+              "media_key": "3_1980118443362832384",
+              "start": 72,
+              "url": "https://t.co/Zkbj2d1gVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980118451139317832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪，为什么手上指头上总是会莫名其妙出现比较小的划伤呢\n难道是睡着后会有野生的地雷系小精灵来割我的手，但是因为太小所以往往会把手指当成手臂？ https://t.co/Zkbj2d1gVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

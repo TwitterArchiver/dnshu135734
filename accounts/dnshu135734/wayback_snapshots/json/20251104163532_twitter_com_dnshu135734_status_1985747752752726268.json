@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1985747752752726268",
+    "created_at": "2025-11-04T16:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985747752752726268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985747752752726268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡觉睡一半，突然想起来冰箱里有2桶1kg的八喜冰淇淋在夏天忘吃了。于是我就在最低气温个位数的天气决定跑去冰箱吃冰淇淋，吃了再睡吧！\n由于冻太久并且开封了，巧克力口味的冰淇淋变成冰渣淇淋了……不过还是很好吃\n之前听说过喝牛奶很助眠，吃冰淇淋是不是也很助眠，不过助眠和晕碳有什么区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1985747752752726268",
+        "created_at": "2025-11-04T16:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985747752752726268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985747752752726268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉睡一半，突然想起来冰箱里有2桶1kg的八喜冰淇淋在夏天忘吃了。于是我就在最低气温个位数的天气决定跑去冰箱吃冰淇淋，吃了再睡吧！\n由于冻太久并且开封了，巧克力口味的冰淇淋变成冰渣淇淋了……不过还是很好吃\n之前听说过喝牛奶很助眠，吃冰淇淋是不是也很助眠，不过助眠和晕碳有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 227
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

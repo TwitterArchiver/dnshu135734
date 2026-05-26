@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1980695635759362374",
+    "created_at": "2025-10-22T04:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T05:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980857081034076214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1691090887424819200",
+          "start": 0,
+          "username": "love_kon_"
+        },
+        {
+          "end": 24,
+          "id": "622036546",
+          "start": 11,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980857081034076214",
+    "in_reply_to_user_id": "1691090887424819200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980780213991780672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love_kon_ @overdose_six 上吊和跳楼实际上都不会痛，在痛之前就会失去意识（前提是死透，所以得确保楼够高或者绳子够结实才行）除此之外无痛的还有烧炭或者氮气安乐袋（拉绳袋套头，里面一根管子接氮气瓶，在死掉之前会陷入类似氮醉的情况所以不会痛）或者某些药物过量（但大部分药物吃死自己实际上不现实。相思树皮除外啊嗯）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1980695635759362374",
+        "created_at": "2025-10-22T04:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T05:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980857081034076214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1691090887424819200",
+              "start": 0,
+              "username": "love_kon_"
+            },
+            {
+              "end": 24,
+              "id": "622036546",
+              "start": 11,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980857081034076214",
+        "in_reply_to_user_id": "1691090887424819200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980780213991780672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love_kon_ @overdose_six 上吊和跳楼实际上都不会痛，在痛之前就会失去意识（前提是死透，所以得确保楼够高或者绳子够结实才行）除此之外无痛的还有烧炭或者氮气安乐袋（拉绳袋套头，里面一根管子接氮气瓶，在死掉之前会陷入类似氮醉的情况所以不会痛）或者某些药物过量（但大部分药物吃死自己实际上不现实。相思树皮除外啊嗯）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691090887424819200",
+        "conversation_id": "1980695635759362374",
+        "created_at": "2025-10-21T23:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T00:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980780213991780672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980780213991780672",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980695635759362374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 推荐一个少痛的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 81
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T14:14:30.000Z",
+        "description": "",
+        "id": "1691090887424819200",
+        "location": "宛平南路600号",
+        "name": "半减7",
+        "pinned_tweet_id": "1947748835163574779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980420784204955648/hPpI_rT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 585,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1610
+        },
+        "username": "love_kon_",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc | 药物代购 | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbmW1y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 91,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 68,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980694433151467520/szS4Q9Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 76,
+          "like_count": 10851,
+          "listed_count": 8,
+          "media_count": 434,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

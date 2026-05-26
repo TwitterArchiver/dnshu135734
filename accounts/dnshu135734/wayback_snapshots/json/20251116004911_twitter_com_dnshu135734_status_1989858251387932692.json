@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1988588671885533451",
+    "created_at": "2025-11-16T00:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T01:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989858251387932692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1760935245812244480",
+          "start": 0,
+          "username": "survive_tolove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989858251387932692",
+    "in_reply_to_user_id": "1760935245812244480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988588671885533451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@survive_tolove 可以反复回到第一层吗。但死掉了就是死掉了，不过钱花光之前还是挺幸福的，总是可以想着去下一个商店结果发了一堆打防和手钻萝卜，于是钱莫名其妙用掉了，然后就死掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1988588671885533451",
+        "created_at": "2025-11-16T00:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T01:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989858251387932692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1760935245812244480",
+              "start": 0,
+              "username": "survive_tolove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989858251387932692",
+        "in_reply_to_user_id": "1760935245812244480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988588671885533451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@survive_tolove 可以反复回到第一层吗。但死掉了就是死掉了，不过钱花光之前还是挺幸福的，总是可以想着去下一个商店结果发了一堆打防和手钻萝卜，于是钱莫名其妙用掉了，然后就死掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760935245812244480",
+        "conversation_id": "1988588671885533451",
+        "created_at": "2025-11-12T12:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988588671885533451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988588671885533451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生就像杀戮尖塔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 343
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T07:51:05.000Z",
+        "description": "指派男 疑似有spd/记忆光速遗忘",
+        "id": "1760935245812244480",
+        "name": "我忘了",
+        "pinned_tweet_id": "1905651295484289303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761317969320173568/uBZXh_ST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 179,
+          "like_count": 18688,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1598
+        },
+        "username": "survive_tolove",
+        "verified": false
+      }
+    ]
+  }
+}

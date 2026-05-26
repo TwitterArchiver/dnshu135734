@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1977973548431061360",
+    "created_at": "2025-10-14T05:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T06:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977973548431061360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1385420056134262787",
+          "start": 3,
+          "username": "mbwadobo"
+        },
+        {
+          "end": 28,
+          "id": "1520006097385693185",
+          "start": 14,
+          "username": "wowmanypeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977973548431061360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977858607879446639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mbwadobo: @wowmanypeople 但把一个人当精神支柱的时候，以为是找到依靠了，其实是把自己的情绪开关交给别人了。他回你消息你就开心，他忙着你就难受，你连怀疑自己都得等他有空了给你个准信儿。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1977973548431061360",
+        "created_at": "2025-10-14T05:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T06:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977973548431061360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1385420056134262787",
+              "start": 3,
+              "username": "mbwadobo"
+            },
+            {
+              "end": 28,
+              "id": "1520006097385693185",
+              "start": 14,
+              "username": "wowmanypeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977973548431061360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977858607879446639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mbwadobo: @wowmanypeople 但把一个人当精神支柱的时候，以为是找到依靠了，其实是把自己的情绪开关交给别人了。他回你消息你就开心，他忙着你就难受，你连怀疑自己都得等他有空了给你个准信儿。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385420056134262787",
+        "conversation_id": "1977707421314294179",
+        "created_at": "2025-10-13T22:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T23:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977858607879446639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520006097385693185",
+              "start": 0,
+              "username": "wowmanypeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977858607879446639",
+        "in_reply_to_user_id": "1520006097385693185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "但把一个人当精神支柱的时候，以为是找到依靠了，其实是把自己的情绪开关交给别人了。他回你消息你就开心，他忙着你就难受，你连怀疑自己都得等他有空了给你个准信儿。\n这种状态时间长了，抑郁和焦虑的风险会越来越高。最气人的是，对方拿着你的遥控器，自己该干嘛干嘛，过得好着呢。你的遥控器呢？早就不在自己手里了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977707421314294179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowmanypeople 但把一个人当精神支柱的时候，以为是找到依靠了，其实是把自己的情绪开关交给别人了。他回你消息你就开心，他忙着你就难受，你连怀疑自己都得等他有空了给你个准信儿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 59
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T02:27:47.000Z",
+        "description": "精神科医生，旅行摄影爱好者🇦🇺",
+        "id": "1385420056134262787",
+        "name": "𝓓𝓻.𝓙𝓲𝓷𝔂𝓾",
+        "pinned_tweet_id": "1913829905953149183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897485347535122432/7Spl3-pp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 1289,
+          "like_count": 420,
+          "listed_count": 16,
+          "media_count": 636,
+          "tweet_count": 5270
+        },
+        "username": "mbwadobo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:44:48.000Z",
+        "description": "\"真實的做自己，不忘記看每天的月亮\"",
+        "id": "1520006097385693185",
+        "name": "new",
+        "pinned_tweet_id": "1621840926418288640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624967495366086657/vq9zPiO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 246,
+          "like_count": 53035,
+          "listed_count": 3,
+          "media_count": 842,
+          "tweet_count": 11543
+        },
+        "username": "wowmanypeople",
+        "verified": false
+      }
+    ]
+  }
+}

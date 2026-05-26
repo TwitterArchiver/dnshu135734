@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1987762390814085551",
+    "created_at": "2025-11-10T17:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987936369461915825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791898542379782144",
+          "start": 0,
+          "username": "Margarette63331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987936369461915825",
+    "in_reply_to_user_id": "1791898542379782144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987773928845279514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Margarette63331 结结结不打算在推特上发相似的内容吗～如果羞耻的做不到的话也没办法呢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1987762390814085551",
+        "created_at": "2025-11-10T17:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987936369461915825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791898542379782144",
+              "start": 0,
+              "username": "Margarette63331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987936369461915825",
+        "in_reply_to_user_id": "1791898542379782144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987773928845279514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Margarette63331 结结结不打算在推特上发相似的内容吗～如果羞耻的做不到的话也没办法呢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791898542379782144",
+        "conversation_id": "1987762390814085551",
+        "created_at": "2025-11-10T06:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987773928845279514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_awa"
+            },
+            {
+              "end": 19,
+              "id": "1821304109451931648",
+              "start": 11,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987773928845279514",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987762390814085551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_awa @Fisa_wo 等不及看小千被同学发现推特账号了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 296
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T18:28:11.000Z",
+        "description": "我们被我们所塑造的东西塑造着。——狐狸小姐          \n对象是@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "dnshu135734"
+              }
+            ]
+          }
+        },
+        "id": "1791898542379782144",
+        "name": "某方的结语",
+        "pinned_tweet_id": "1966415821473042737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969456593596248064/wHfYrTj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 208,
+          "like_count": 1533,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 865
+        },
+        "username": "Margarette63331",
+        "verified": false
+      }
+    ]
+  }
+}

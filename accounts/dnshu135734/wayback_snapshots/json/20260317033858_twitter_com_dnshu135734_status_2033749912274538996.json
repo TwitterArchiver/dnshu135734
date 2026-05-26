@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2033534038397640916",
+    "created_at": "2026-03-17T03:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033749912274538996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1646046913563885568",
+          "start": 0,
+          "username": "liuchenmao2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033749912274538996",
+    "in_reply_to_user_id": "1646046913563885568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033749510170808642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuchenmao2023 都差不多吧。实际上拿条锡纸什么的效果也不会和这个差太远。吸入更多的是看药的种类(´･_･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2033749499651452928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlUZQjacAAKy8Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2033534038397640916",
+        "created_at": "2026-03-17T03:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033749912274538996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1646046913563885568",
+              "start": 0,
+              "username": "liuchenmao2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033749912274538996",
+        "in_reply_to_user_id": "1646046913563885568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033749510170808642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuchenmao2023 都差不多吧。实际上拿条锡纸什么的效果也不会和这个差太远。吸入更多的是看药的种类(´･_･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033749499651452928"
+          ]
+        },
+        "author_id": "1646046913563885568",
+        "conversation_id": "2033534038397640916",
+        "created_at": "2026-03-17T03:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033749510170808642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4C7hrLAcL",
+              "end": 54,
+              "expanded_url": "https://x.com/liuchenmao2023/status/2033749510170808642/photo/1",
+              "media_key": "3_2033749499651452928",
+              "start": 31,
+              "url": "https://t.co/k4C7hrLAcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033749510170808642",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033745376256397789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 通过这种药粉吸入器呢，你觉得可行吗 https://t.co/k4C7hrLAcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1424
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T07:05:51.000Z",
+        "description": "这里是流走在尘世间的猫",
+        "id": "1646046913563885568",
+        "name": "流走在尘世间的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646048386754437121/EoPHcNyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 32,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "liuchenmao2023",
+        "verified": false
+      }
+    ]
+  }
+}

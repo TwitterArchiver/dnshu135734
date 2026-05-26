@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2025967779808186649",
+    "created_at": "2026-02-23T16:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025967779808186649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dnshu135734/st…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/dnshu135734/status/2025966804536070488",
+          "start": 133,
+          "url": "https://t.co/4oYoLObwWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025967779808186649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025966804536070488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想自杀的人往往活在地狱里很痛苦，你不能帮他解决任何现实问题甚至不能安抚他的情绪，但一提到自杀就开始摆出严厉禁止的态度。这是为别人好还是想要满足自己的道德需求？明明只是一无所知的路人身份\n又回到了自杀到底是好是坏这个问题…\n所以这就是健全人理解不了自杀者才知道的事情 https://t.co/4oYoLObwWo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2025967779808186649",
+        "created_at": "2026-02-23T16:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025967779808186649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dnshu135734/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/dnshu135734/status/2025966804536070488",
+              "start": 133,
+              "url": "https://t.co/4oYoLObwWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025967779808186649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025966804536070488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想自杀的人往往活在地狱里很痛苦，你不能帮他解决任何现实问题甚至不能安抚他的情绪，但一提到自杀就开始摆出严厉禁止的态度。这是为别人好还是想要满足自己的道德需求？明明只是一无所知的路人身份\n又回到了自杀到底是好是坏这个问题…\n所以这就是健全人理解不了自杀者才知道的事情 https://t.co/4oYoLObwWo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2025966804536070488",
+        "created_at": "2026-02-23T16:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025966804536070488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dnshu135734/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/dnshu135734/status/2025966060055548319",
+              "start": 121,
+              "url": "https://t.co/HaIkq64deY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025966804536070488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025966060055548319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "劝人自杀又是另一个事，墙外什么时候那么多道德警察了。大部分人来墙外不就是希望有言论自由，能看到墙内不能看的东西，分享墙内不能分享的事情吗。\n你反对自杀但有人确实想自杀，不能因为你理解不了于是用一堆道德的高帽去堵别人嘴（你说我反人类我也认了） https://t.co/HaIkq64deY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1077
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

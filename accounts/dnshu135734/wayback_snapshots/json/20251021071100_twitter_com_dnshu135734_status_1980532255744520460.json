@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "1980532255744520460",
+    "created_at": "2025-10-21T07:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980532255744520460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980532255744520460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好难受好难受好难受好难受明明以前不是这样的。为什么我现在会这么想念过去开心的日子呢，明明只有短短的一段时间，但现在感觉已经不只是想要能够一个人自言自语的生活了。我应该慢慢习惯现在的样子吗。以前真的被惯坏了……果然我还是那种得寸进尺的人。讨厌失去任何东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "1980532255744520460",
+        "created_at": "2025-10-21T07:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980532255744520460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980532255744520460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受好难受好难受好难受明明以前不是这样的。为什么我现在会这么想念过去开心的日子呢，明明只有短短的一段时间，但现在感觉已经不只是想要能够一个人自言自语的生活了。我应该慢慢习惯现在的样子吗。以前真的被惯坏了……果然我还是那种得寸进尺的人。讨厌失去任何东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

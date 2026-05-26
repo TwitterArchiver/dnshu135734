@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2007356283389903209",
+    "created_at": "2026-01-05T00:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T01:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007973959749472279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1820394503737679872",
+          "start": 0,
+          "username": "bieyeqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007973959749472279",
+    "in_reply_to_user_id": "1820394503737679872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007915749948723261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bieyeqing 平常吃愈美的时候会配止吐药（比如昂丹司琼）\n主要是我现在吃愈美都没什么感觉了………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2007356283389903209",
+        "created_at": "2026-01-05T00:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007973959749472279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820394503737679872",
+              "start": 0,
+              "username": "bieyeqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007973959749472279",
+        "in_reply_to_user_id": "1820394503737679872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007915749948723261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bieyeqing 平常吃愈美的时候会配止吐药（比如昂丹司琼）\n主要是我现在吃愈美都没什么感觉了………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820394503737679872",
+        "conversation_id": "2007356283389903209",
+        "created_at": "2026-01-04T20:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T21:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007915749948723261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972363680198361088",
+              "start": 0,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007915749948723261",
+        "in_reply_to_user_id": "1972363680198361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007356283389903209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnshu135734 这个耐药性也太高了吧？！我吃20t愈美配西柚汁就强烈的想吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧",
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 686
+        },
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T09:41:08.000Z",
+        "description": "我是一个蠢货",
+        "id": "1820394503737679872",
+        "location": "乌托邦",
+        "name": "晚安这个世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007904813460398080/eRhonhaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "bieyeqing",
+        "verified": false
+      }
+    ]
+  }
+}
