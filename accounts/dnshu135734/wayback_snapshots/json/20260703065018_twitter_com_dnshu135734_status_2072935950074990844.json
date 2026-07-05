@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1697053249440731136",
+          "name": "Apple Event 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1717672666507730944",
+          "name": "Apple Event"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "1777623126387413363",
+    "created_at": "2026-07-03T06:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072935950074990844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1773359765898366976",
+          "start": 0,
+          "username": "qingyunticloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072935950074990844",
+    "in_reply_to_user_id": "1773359765898366976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1777623126387413363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyunticloud iPad mini怎么下载安装"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1777622579555282944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKtiUV8bMAAxV_N.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1777623126387413363",
+        "created_at": "2026-07-03T06:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072935950074990844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1773359765898366976",
+              "start": 0,
+              "username": "qingyunticloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072935950074990844",
+        "in_reply_to_user_id": "1773359765898366976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1777623126387413363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyunticloud iPad mini怎么下载安装"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1777622579555282944"
+          ]
+        },
+        "author_id": "1773359765898366976",
+        "conversation_id": "1777623126387413363",
+        "created_at": "2024-04-09T09:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-09T10:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1777623126387413363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "reurl.cc/nrknp6",
+              "end": 87,
+              "expanded_url": "https://reurl.cc/nrknp6",
+              "start": 64,
+              "url": "https://t.co/YXyQCtjKzf"
+            },
+            {
+              "display_url": "pic.x.com/s5jm7xBv63",
+              "end": 111,
+              "expanded_url": "https://x.com/qingyunticloud/status/1777623126387413363/photo/1",
+              "media_key": "3_1777622579555282944",
+              "start": 88,
+              "url": "https://t.co/s5jm7xBv63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1777623126387413363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1891,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青云梯，三年老牌全节点IPLC 专线落地的高速机场，无倍率不限速，8K4K秒开，解锁全部 ai 工具，流媒体，小众网站，速速上车https://t.co/YXyQCtjKzf https://t.co/s5jm7xBv63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n超级可爱的恋人喵@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 5765,
+          "listed_count": 5,
+          "media_count": 90,
+          "tweet_count": 1948
+        },
+        "url": "",
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T14:41:42.000Z",
+        "description": "",
+        "id": "1773359765898366976",
+        "name": "青云梯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773359936526774272/ySFockaV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "qingyunticloud",
+        "verified": false
+      }
+    ]
+  }
+}
