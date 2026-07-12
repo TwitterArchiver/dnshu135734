@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972363680198361088",
+    "conversation_id": "2075157177736823180",
+    "created_at": "2026-07-10T01:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075396369037353063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956493742602584064",
+          "start": 0,
+          "username": "nya_korii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075396369037353063",
+    "in_reply_to_user_id": "1956493742602584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075157177736823180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_korii 不要離開家，有什麼事父母不會害你的，他們是關心你，你要嘗試和父母溝通，只要你不做傻事，他們會包容你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972363680198361088",
+        "conversation_id": "2075157177736823180",
+        "created_at": "2026-07-10T01:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075396369037353063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956493742602584064",
+              "start": 0,
+              "username": "nya_korii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075396369037353063",
+        "in_reply_to_user_id": "1956493742602584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075157177736823180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_korii 不要離開家，有什麼事父母不會害你的，他們是關心你，你要嘗試和父母溝通，只要你不做傻事，他們會包容你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956493742602584064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347260913552789506",
+              "name": "Apple iMessage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075157177736823180",
+        "created_at": "2026-07-09T09:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075157177736823180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075157177736823180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 44807,
+          "like_count": 222,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "平静下来给大家说说发生了什么\n7月4日上午7时左右我爸趁着我睡着了翻了我的手机，包括相册、微信，imessage是否涉及尚不清楚。我和我哥的聊天记录全部暴露，以至于直接炸柜。我爸妈从聊天记录中拼凑事实得出我在25年学期中去厦门卖淫的结论，一度试图获取飒太的所有身份信息\n我在这周受到了许多指责。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n超级可爱的恋人喵@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 7,
+          "like_count": 5759,
+          "listed_count": 5,
+          "media_count": 90,
+          "tweet_count": 1949
+        },
+        "url": "",
+        "username": "dnshu135734",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T23:10:41.000Z",
+        "description": "@𝑛𝑦𝑎_𝑠𝑜𝑢𝑡𝑎 | 就安心吧安心吧 永遠不下墜",
+        "id": "1956493742602584064",
+        "location": "Việt Nam",
+        "name": "𝑤𝑎𝑘𝑒𝑦",
+        "pinned_tweet_id": "2074859796919120029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004934759693094912/SMrCoaEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 192,
+          "like_count": 3046,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1420
+        },
+        "url": "",
+        "username": "nya_korii",
+        "verified": false
+      }
+    ]
+  }
+}
